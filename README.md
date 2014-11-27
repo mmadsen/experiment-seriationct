@@ -23,9 +23,9 @@ See the file [experiment.md](experiment.md) for the planned experimental details
 
 ## Organizing Sets of Simulations and Seriations ##
 
-The way I've been organizing things is to designate a set of simulations by name, and make subdirectories for it everywhere, so the configurations, simulation data, analysis, and in this project, seriations, are all tracked by that name.  For example, we might do a test run with a small number of populations just to get our pipeline of stuff all working.  We might name that "test-1".  Underneath the `simulations` directory, there would be a `test-1` subdirectory, and underneath the `seriations` directory there would be a `test-1` subdirectory, and similarly with analysis.  This has helped me keep track of the many different runs, and partial runs, one does to get everything working.  
+The way I've been organizing things is to designate a set of simulations by name, and make subdirectories for it everywhere, so the configurations, simulation data, analysis, and in this project, seriations, are all tracked by that name.  For example, we might do a test run with a small number of populations just to get our pipeline of stuff all working.  We might name that "test-1".  Underneath the `simulations` directory, there would be a `test-1` subdirectory, and underneath the `seriations` directory there would be a `test-1` subdirectory, and similarly with analysis.  This has helped me keep track of the many different runs, and partial runs, one does to get everything working, especially since things like log files and configuration files tend to have the same names, but different contents, from run to run.    
 
-Eventually we'll have a set of runs and seriations which are the basis for our final results, and we'd label that something appropriate.  
+Eventually we'll have a set of runs and seriations which are the basis for our final results, and we'd label that something appropriate or put a README in that directory so folks can find **just** the stuff that ended up being in the final paper.    
 
 
 ## Data Location ##
