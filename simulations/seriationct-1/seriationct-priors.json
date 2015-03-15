@@ -1,13 +1,12 @@
 {
-    "theta_low": 0.1,
-    "theta_high": 5.0,
-    "kandler_interval": 50,
-    "maxinittraits": 10,
-    "numloci": 4,
+    "theta_low": 0.001,
+    "theta_high": 0.1,
+    "maxinittraits": 5,
+    "numloci": 3,
     "popsize": 250,
     "simlength": 6000,
-    "samplesize" : 50,
+    "samplefraction" : 0.5,
     "migrationfraction_low" : 0.05,
     "migrationfraction_high" : 0.3,
-    "replicates" : 25
+    "replicates" : 10 
 }
