@@ -27,7 +27,7 @@ full_dir_to_process <- paste(base_dir, directory_to_process, sep="/")
 setwd(full_dir_to_process)
 cat(sprintf("directory to process: %s\n", full_dir_to_process))
 
-file_list <- list_files_for_data_path(basedir = base_dir, directory = directory_to_process)
+file_list <- list_files_for_data_path(basedir = base_dir, directory = directory_to_process, pattern="\\.txt$")
  
 cat(sprintf("file list: %s\n", file_list))
 
