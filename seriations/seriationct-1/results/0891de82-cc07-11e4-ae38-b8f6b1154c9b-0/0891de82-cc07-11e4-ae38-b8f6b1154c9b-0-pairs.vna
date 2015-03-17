@@ -1,0 +1,267 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-15-2 50076.0 2e-06 0.00014 2.0 15.0
+assemblage-11-3 20818.0 3e-06 0.00018 3.0 11.0
+assemblage-11-2 20818.0 2e-06 0.00018 2.0 11.0
+assemblage-12-4 29826.0 4e-06 0.00017 4.0 12.0
+assemblage-28-1 20250.0 1e-06 1e-05 1.0 28.0
+assemblage-12-1 20231.0 1e-06 0.00017 1.0 12.0
+assemblage-12-2 20250.0 2e-06 0.00017 2.0 12.0
+assemblage-2-3 29826.0 3e-06 0.00027 3.0 2.0
+assemblage-3-2 18929.0 2e-06 0.00026 2.0 3.0
+assemblage-1-4 89823.0 4e-06 0.00028 4.0 1.0
+assemblage-21-4 20231.0 4e-06 8e-05 4.0 21.0
+assemblage-21-3 20818.0 3e-06 8e-05 3.0 21.0
+assemblage-28-3 20231.0 3e-06 1e-05 3.0 28.0
+assemblage-25-4 39179.0 4e-06 4e-05 4.0 25.0
+assemblage-6-2 20231.0 2e-06 0.00023 2.0 6.0
+assemblage-7-3 20818.0 3e-06 0.00022 3.0 7.0
+assemblage-20-3 20231.0 3e-06 9e-05 3.0 20.0
+assemblage-20-1 18929.0 1e-06 9e-05 1.0 20.0
+assemblage-18-4 41049.0 4e-06 0.00011 4.0 18.0
+assemblage-16-2 29826.0 2e-06 0.00013 2.0 16.0
+assemblage-19-1 69005.0 1e-06 0.0001 1.0 19.0
+assemblage-4-4 18929.0 4e-06 0.00025 4.0 4.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-15-2 50076.0 2e-06 0.00014 2.0 15.0
+assemblage-11-3 20818.0 3e-06 0.00018 3.0 11.0
+assemblage-11-2 20818.0 2e-06 0.00018 2.0 11.0
+assemblage-12-4 29826.0 4e-06 0.00017 4.0 12.0
+assemblage-28-1 20250.0 1e-06 1e-05 1.0 28.0
+assemblage-12-1 20231.0 1e-06 0.00017 1.0 12.0
+assemblage-12-2 20250.0 2e-06 0.00017 2.0 12.0
+assemblage-2-3 29826.0 3e-06 0.00027 3.0 2.0
+assemblage-3-2 18929.0 2e-06 0.00026 2.0 3.0
+assemblage-1-4 89823.0 4e-06 0.00028 4.0 1.0
+assemblage-21-4 20231.0 4e-06 8e-05 4.0 21.0
+assemblage-21-3 20818.0 3e-06 8e-05 3.0 21.0
+assemblage-28-3 20231.0 3e-06 1e-05 3.0 28.0
+assemblage-25-4 39179.0 4e-06 4e-05 4.0 25.0
+assemblage-6-2 20231.0 2e-06 0.00023 2.0 6.0
+assemblage-7-3 20818.0 3e-06 0.00022 3.0 7.0
+assemblage-20-3 20231.0 3e-06 9e-05 3.0 20.0
+assemblage-20-1 18929.0 1e-06 9e-05 1.0 20.0
+assemblage-18-4 41049.0 4e-06 0.00011 4.0 18.0
+assemblage-16-2 29826.0 2e-06 0.00013 2.0 16.0
+assemblage-19-1 69005.0 1e-06 0.0001 1.0 19.0
+assemblage-4-4 18929.0 4e-06 0.00025 4.0 4.0
+*Tie data
+From To Edge Count
+assemblage-3-2	assemblage-7-3	 1 1
+assemblage-1-4	assemblage-6-2	 1 1
+assemblage-28-3	assemblage-20-3	 1 1
+assemblage-20-1	assemblage-1-4	 1 1
+assemblage-28-3	assemblage-20-1	 1 1
+assemblage-12-4	assemblage-7-3	 1 1
+assemblage-4-4	assemblage-7-3	 1 1
+assemblage-28-1	assemblage-3-2	 1 1
+assemblage-15-2	assemblage-3-2	 1 1
+assemblage-4-4	assemblage-19-1	 1 1
+assemblage-18-4	assemblage-2-3	 1 1
+assemblage-18-4	assemblage-12-2	 1 1
+assemblage-15-2	assemblage-12-2	 1 1
+assemblage-20-3	assemblage-16-2	 1 1
+assemblage-28-3	assemblage-11-2	 1 1
+assemblage-28-3	assemblage-11-3	 1 1
+assemblage-19-1	assemblage-2-3	 1 1
+assemblage-12-4	assemblage-20-1	 1 1
+assemblage-12-4	assemblage-3-2	 1 1
+assemblage-21-4	assemblage-1-4	 1 1
+assemblage-12-1	assemblage-19-1	 1 1
+assemblage-28-3	assemblage-1-4	 1 1
+assemblage-12-4	assemblage-16-2	 1 1
+assemblage-28-3	assemblage-2-3	 1 1
+assemblage-4-4	assemblage-2-3	 1 1
+assemblage-28-1	assemblage-11-3	 1 1
+assemblage-12-4	assemblage-15-2	 1 1
+assemblage-12-4	assemblage-4-4	 1 1
+assemblage-20-3	assemblage-12-1	 1 1
+assemblage-12-1	assemblage-21-3	 1 1
+assemblage-6-2	assemblage-21-3	 1 1
+assemblage-28-3	assemblage-19-1	 1 1
+assemblage-20-3	assemblage-11-2	 1 1
+assemblage-20-3	assemblage-11-3	 1 1
+assemblage-21-3	assemblage-6-2	 1 1
+assemblage-12-1	assemblage-7-3	 1 1
+assemblage-12-1	assemblage-2-3	 1 1
+assemblage-12-4	assemblage-21-3	 1 1
+assemblage-12-4	assemblage-21-4	 1 1
+assemblage-15-2	assemblage-2-3	 1 1
+assemblage-21-4	assemblage-19-1	 1 1
+assemblage-20-3	assemblage-19-1	 1 1
+assemblage-7-3	assemblage-2-3	 1 1
+assemblage-11-3	assemblage-18-4	 1 1
+assemblage-20-1	assemblage-2-3	 1 1
+assemblage-25-4	assemblage-2-3	 1 1
+assemblage-18-4	assemblage-7-3	 1 1
+assemblage-21-4	assemblage-20-1	 1 1
+assemblage-6-2	assemblage-7-3	 1 1
+assemblage-15-2	assemblage-11-2	 1 1
+assemblage-21-4	assemblage-16-2	 1 1
+assemblage-21-3	assemblage-25-4	 1 1
+assemblage-12-4	assemblage-25-4	 1 1
+assemblage-12-4	assemblage-28-3	 1 1
+assemblage-12-4	assemblage-28-1	 1 1
+assemblage-20-3	assemblage-21-3	 1 1
+assemblage-6-2	assemblage-25-4	 1 1
+assemblage-25-4	assemblage-12-2	 1 1
+assemblage-20-3	assemblage-21-4	 1 1
+assemblage-4-4	assemblage-21-3	 1 1
+assemblage-3-2	assemblage-11-2	 1 1
+assemblage-4-4	assemblage-21-4	 1 1
+assemblage-28-1	assemblage-1-4	 1 1
+assemblage-6-2	assemblage-19-1	 1 1
+assemblage-3-2	assemblage-12-2	 1 1
+assemblage-16-2	assemblage-19-1	 1 1
+assemblage-3-2	assemblage-12-1	 1 1
+assemblage-4-4	assemblage-25-4	 1 1
+assemblage-3-2	assemblage-1-4	 1 1
+assemblage-12-4	assemblage-19-1	 1 1
+assemblage-28-3	assemblage-6-2	 1 1
+assemblage-1-4	assemblage-21-4	 1 1
+assemblage-21-3	assemblage-18-4	 1 1
+assemblage-1-4	assemblage-21-3	 1 1
+assemblage-3-2	assemblage-2-3	 1 1
+assemblage-20-3	assemblage-25-4	 1 1
+assemblage-4-4	assemblage-1-4	 1 1
+assemblage-7-3	assemblage-12-2	 1 1
+assemblage-11-2	assemblage-7-3	 1 1
+assemblage-3-2	assemblage-20-1	 1 1
+assemblage-20-3	assemblage-6-2	 1 1
+assemblage-20-3	assemblage-4-4	 1 1
+assemblage-18-4	assemblage-25-4	 1 1
+assemblage-21-4	assemblage-2-3	 1 1
+assemblage-21-4	assemblage-7-3	 1 1
+assemblage-20-1	assemblage-12-2	 1 1
+assemblage-28-3	assemblage-12-1	 1 1
+assemblage-12-1	assemblage-25-4	 1 1
+assemblage-28-3	assemblage-12-2	 1 1
+assemblage-6-2	assemblage-16-2	 1 1
+assemblage-1-4	assemblage-25-4	 1 1
+assemblage-15-2	assemblage-25-4	 1 1
+assemblage-28-1	assemblage-20-1	 1 1
+assemblage-1-4	assemblage-18-4	 1 1
+assemblage-20-3	assemblage-1-4	 1 1
+assemblage-16-2	assemblage-1-4	 1 1
+assemblage-21-4	assemblage-12-2	 1 1
+assemblage-21-4	assemblage-12-1	 1 1
+assemblage-11-3	assemblage-2-3	 1 1
+assemblage-21-4	assemblage-25-4	 1 1
+assemblage-18-4	assemblage-21-3	 1 1
+assemblage-19-1	assemblage-7-3	 1 1
+assemblage-1-4	assemblage-7-3	 1 1
+assemblage-11-2	assemblage-25-4	 1 1
+assemblage-12-4	assemblage-20-3	 1 1
+assemblage-12-2	assemblage-25-4	 1 1
+assemblage-28-3	assemblage-7-3	 1 1
+assemblage-19-1	assemblage-21-3	 1 1
+assemblage-20-1	assemblage-7-3	 1 1
+assemblage-6-2	assemblage-1-4	 1 1
+assemblage-20-3	assemblage-12-2	 1 1
+assemblage-20-3	assemblage-18-4	 1 1
+assemblage-15-2	assemblage-11-3	 1 1
+assemblage-21-4	assemblage-3-2	 1 1
+assemblage-12-1	assemblage-18-4	 1 1
+assemblage-16-2	assemblage-11-3	 1 1
+assemblage-15-2	assemblage-12-1	 1 1
+assemblage-4-4	assemblage-18-4	 1 1
+assemblage-4-4	assemblage-20-1	 1 1
+assemblage-12-4	assemblage-11-2	 1 1
+assemblage-12-4	assemblage-11-3	 1 1
+assemblage-6-2	assemblage-2-3	 1 1
+assemblage-21-4	assemblage-11-3	 1 1
+assemblage-15-2	assemblage-28-1	 1 1
+assemblage-28-1	assemblage-21-4	 1 1
+assemblage-28-3	assemblage-3-2	 1 1
+assemblage-28-1	assemblage-2-3	 1 1
+assemblage-28-1	assemblage-21-3	 1 1
+assemblage-20-3	assemblage-2-3	 1 1
+assemblage-16-2	assemblage-12-2	 1 1
+assemblage-16-2	assemblage-12-1	 1 1
+assemblage-12-4	assemblage-1-4	 1 1
+assemblage-16-2	assemblage-25-4	 1 1
+assemblage-28-3	assemblage-16-2	 1 1
+assemblage-12-4	assemblage-2-3	 1 1
+assemblage-15-2	assemblage-21-4	 1 1
+assemblage-28-3	assemblage-18-4	 1 1
+assemblage-28-3	assemblage-15-2	 1 1
+assemblage-3-2	assemblage-11-3	 1 1
+assemblage-12-2	assemblage-2-3	 1 1
+assemblage-11-2	assemblage-21-3	 1 1
+assemblage-11-2	assemblage-19-1	 1 1
+assemblage-21-4	assemblage-21-3	 1 1
+assemblage-11-3	assemblage-19-1	 1 1
+assemblage-21-3	assemblage-19-1	 1 1
+assemblage-11-3	assemblage-11-2	 1 1
+assemblage-20-1	assemblage-4-4	 1 1
+assemblage-28-3	assemblage-21-3	 1 1
+assemblage-6-2	assemblage-12-2	 1 1
+assemblage-6-2	assemblage-20-1	 1 1
+assemblage-28-3	assemblage-21-4	 1 1
+assemblage-20-1	assemblage-3-2	 1 1
+assemblage-11-3	assemblage-7-3	 1 1
+assemblage-16-2	assemblage-11-2	 1 1
+assemblage-15-2	assemblage-21-3	 1 1
+assemblage-21-3	assemblage-7-3	 1 1
+assemblage-11-2	assemblage-12-1	 1 1
+assemblage-21-4	assemblage-18-4	 1 1
+assemblage-20-1	assemblage-12-1	 1 1
+assemblage-28-3	assemblage-25-4	 1 1
+assemblage-15-2	assemblage-19-1	 1 1
+assemblage-28-3	assemblage-28-1	 1 1
+assemblage-25-4	assemblage-21-3	 1 1
+assemblage-28-1	assemblage-11-2	 1 1
+assemblage-6-2	assemblage-18-4	 1 1
+assemblage-16-2	assemblage-21-4	 1 1
+assemblage-1-4	assemblage-11-3	 1 1
+assemblage-1-4	assemblage-11-2	 1 1
+assemblage-11-3	assemblage-21-3	 1 1
+assemblage-21-3	assemblage-12-2	 1 1
+assemblage-16-2	assemblage-21-3	 1 1
+assemblage-4-4	assemblage-28-1	 1 1
+assemblage-1-4	assemblage-19-1	 1 1
+assemblage-16-2	assemblage-2-3	 1 1
+assemblage-16-2	assemblage-7-3	 1 1
+assemblage-21-4	assemblage-11-2	 1 1
+assemblage-11-3	assemblage-25-4	 1 1
+assemblage-16-2	assemblage-4-4	 1 1
+assemblage-1-4	assemblage-12-2	 1 1
+assemblage-12-1	assemblage-12-2	 1 1
+assemblage-1-4	assemblage-12-1	 1 1
+assemblage-4-4	assemblage-12-2	 1 1
+assemblage-15-2	assemblage-1-4	 1 1
+assemblage-28-1	assemblage-4-4	 1 1
+assemblage-20-1	assemblage-11-2	 1 1
+assemblage-11-3	assemblage-12-1	 1 1
+assemblage-11-2	assemblage-18-4	 1 1
+assemblage-12-1	assemblage-6-2	 1 1
+assemblage-11-3	assemblage-12-2	 1 1
+assemblage-28-1	assemblage-7-3	 1 1
+assemblage-12-4	assemblage-6-2	 1 1
+assemblage-16-2	assemblage-18-4	 1 1
+assemblage-4-4	assemblage-11-2	 1 1
+assemblage-3-2	assemblage-21-3	 1 1
+assemblage-1-4	assemblage-2-3	 1 1
+assemblage-4-4	assemblage-3-2	 1 1
+assemblage-15-2	assemblage-7-3	 1 1
+assemblage-19-1	assemblage-18-4	 1 1
+assemblage-28-1	assemblage-12-2	 1 1
+assemblage-28-1	assemblage-12-1	 1 1
+assemblage-28-1	assemblage-25-4	 1 1
+assemblage-20-1	assemblage-21-3	 1 1
+assemblage-21-4	assemblage-6-2	 1 1
+assemblage-12-4	assemblage-12-1	 1 1
+assemblage-12-4	assemblage-12-2	 1 1
+assemblage-20-3	assemblage-7-3	 1 1
+assemblage-3-2	assemblage-25-4	 1 1
+assemblage-4-4	assemblage-16-2	 1 1
+assemblage-11-2	assemblage-12-2	 1 1
+assemblage-11-2	assemblage-2-3	 1 1
+assemblage-7-3	assemblage-25-4	 1 1
+assemblage-20-3	assemblage-20-1	 1 1
+assemblage-21-3	assemblage-2-3	 1 1
+assemblage-6-2	assemblage-11-2	 1 1
+assemblage-6-2	assemblage-11-3	 1 1
+assemblage-20-1	assemblage-25-4	 1 1
+assemblage-6-2	assemblage-12-1	 1 1
