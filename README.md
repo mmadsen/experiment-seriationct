@@ -8,16 +8,21 @@ Our SAA2015 paper in the evolutionary theory symposium is focused upon the stati
 
 >At scales where individual copying events are not measurable but the regional archaeological record is rich enough to support models more detailed than phylogenies, seriation can play a unique role as a diachronic measurement tool for linking cultural transmission models to data composed of assemblages of artifact class frequencies. As a first step towards fitting cultural transmission models to regional-scale transmission scenarios, we develop a iterative deterministic seriation algorithm.  We then implement summary statistics suitable for fitting models to seriations using an Approximate Bayesian Computation (ABC) approach.
 
-See the file [experiment.md](experiment.md) for the planned experimental details. 
 
 ## Subdirectories ##
+
+The main action is contained in three directories:
+
+* simulations:  configurations and control scripts used for simulations that generate samples for seriation studies.
+* seriations:  IDSS seriation input, intermediate files, and output from seriated simulated samples. 
+
+
 
 * paper:  contains Rmarkdown manuscript file and supporting LaTeX infrastructure
 * explorations:  contains IPython notebooks, sample graphs, Mathematica notebooks, and other tests that inform the thinking behind the analysis performed here.  THESE ARE INCLUDED FOR INFORMATIONAL PURPOSES.  ALL ACTUAL ANALYSIS MUST BE IN THE ANALYSIS DIRECTORY.
 * analysis:  contains R project file and R code for analyses of data that goes into the publication version.
 * presentation:  currently empty since I've used different presentation software on each project.  I'm looking to standardize on something HTML5 based soon as it matures, though
-* simulations:  configurations and control scripts used for simulations that generate samples for seriation studies.
-* seriations:  IDSS seriation input, intermediate files, and output from seriated simulated samples. 
+
 * outline:  LaTeX template for a paper outline (there's no good Markdown solution for this).  
 
 
