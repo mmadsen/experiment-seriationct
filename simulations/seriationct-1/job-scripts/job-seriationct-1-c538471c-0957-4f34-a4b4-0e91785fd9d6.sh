@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sim-seriationct-networkmodel.py  --experiment seriationct-1 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00506631688547 --simlength 6000 --debug 0 --seed 725215222 --reps 5 --samplefraction 0.5 --migrationfraction 0.169391094656 --devel 0 --networkmodel networks/rectangulardistance-1.zip
+sim-seriationct-networkmodel.py  --experiment seriationct-1 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00973991033304 --simlength 6000 --debug 0 --seed 893608092 --reps 5 --samplefraction 0.5 --migrationfraction 0.109146789839 --devel 0 --networkmodel networks/rectangulardistance-1.zip
+sim-seriationct-networkmodel.py  --experiment seriationct-1 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00952474064489 --simlength 6000 --debug 0 --seed 554810792 --reps 5 --samplefraction 0.5 --migrationfraction 0.107828383916 --devel 0 --networkmodel networks/rectangulardistance-1.zip
+sim-seriationct-networkmodel.py  --experiment seriationct-1 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00429451974498 --simlength 6000 --debug 0 --seed 541903828 --reps 5 --samplefraction 0.5 --migrationfraction 0.0787733025066 --devel 0 --networkmodel networks/rectangulardistance-1.zip
