@@ -40,7 +40,7 @@ NsS'minmaxbycount'
 p18
 NsS'inputfile'
 p19
-S'exported-data/c896638e-cc06-11e4-8260-b8f6b1154c9b-3.txt'
+S'longthin-1615c112-cf23-11e4-96c3-b8f6b1154c9b-0.txt'
 p20
 sS'occurrenceseriation'
 p21
@@ -72,7 +72,7 @@ NsS'largestonly'
 p32
 NsS'outputdirectory'
 p33
-S'results/c896638e-cc06-11e4-8260-b8f6b1154c9b-3'
+S'results/longthin-1615c112-cf23-11e4-96c3-b8f6b1154c9b-0'
 p34
 sS'bootstrapSignificance'
 p35
@@ -81,7 +81,7 @@ sS'frequencyseriation'
 p36
 NsS'xyfile'
 p37
-S'rectangulardistance-1XY.txt'
+S'longthinhierXY.txt'
 p38
 sS'graphs'
 p39

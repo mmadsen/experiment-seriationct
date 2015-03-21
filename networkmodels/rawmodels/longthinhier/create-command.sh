@@ -1,0 +1,1 @@
+seriationct-create-networkmodel.py --graphshow 0 --x 20 --y 100 --slices 5 --model grid --wiring hierarchy --levels 3 --overlap 0.2 --density 0.05 --filename longthinhier/longthinhier --child_interconnect 0.2 --gchild_interconnect 0.2 --interconnect 0.1 --children 3

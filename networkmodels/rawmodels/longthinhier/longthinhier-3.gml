@@ -1,0 +1,580 @@
+graph [
+  is_directed 0
+  node [
+    id 0
+    label "assemblage-12-16"
+    level "grandchild"
+    parent_node "initial"
+    xcoord 12
+    ycoord 16
+  ]
+  node [
+    id 1
+    label "assemblage-12-15"
+    level "grandchild"
+    parent_node "assemblage-80-16"
+    xcoord 12
+    ycoord 15
+  ]
+  node [
+    id 2
+    label "assemblage-66-9"
+    level "grandchild"
+    parent_node "assemblage-99-1"
+    xcoord 66
+    ycoord 9
+  ]
+  node [
+    id 3
+    label "assemblage-33-5"
+    level "grandchild"
+    parent_node "assemblage-64-2"
+    xcoord 33
+    ycoord 5
+  ]
+  node [
+    id 4
+    label "assemblage-80-16"
+    level "grandchild"
+    parent_node "initial"
+    xcoord 80
+    ycoord 16
+  ]
+  node [
+    id 5
+    label "assemblage-34-4"
+    level "grandchild"
+    parent_node "initial"
+    xcoord 34
+    ycoord 4
+  ]
+  node [
+    id 6
+    label "assemblage-22-15"
+    level "root"
+    parent_node "initial"
+    xcoord 22
+    ycoord 15
+  ]
+  node [
+    id 7
+    label "assemblage-59-9"
+    level "child"
+    parent_node "assemblage-64-2"
+    xcoord 59
+    ycoord 9
+  ]
+  node [
+    id 8
+    label "assemblage-36-1"
+    level "grandchild"
+    parent_node "assemblage-39-9"
+    xcoord 36
+    ycoord 1
+  ]
+  node [
+    id 9
+    label "assemblage-99-1"
+    level "grandchild"
+    parent_node "assemblage-21-2"
+    xcoord 99
+    ycoord 1
+  ]
+  node [
+    id 10
+    label "assemblage-74-13"
+    level "child"
+    parent_node "assemblage-80-16"
+    xcoord 74
+    ycoord 13
+  ]
+  node [
+    id 11
+    label "assemblage-97-15"
+    level "child"
+    parent_node "assemblage-21-2"
+    xcoord 97
+    ycoord 15
+  ]
+  node [
+    id 12
+    label "assemblage-84-18"
+    level "grandchild"
+    parent_node "assemblage-12-16"
+    xcoord 84
+    ycoord 18
+  ]
+  edge [
+    source 0
+    target 0
+    distance 0.0
+    name "assemblage-12-16*assemblage-12-16"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-12-16"
+    from_node "assemblage-12-16"
+  ]
+  edge [
+    source 0
+    target 1
+    distance 1.0
+    name "assemblage-12-16*assemblage-12-15"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-12-15"
+    from_node "assemblage-12-16"
+  ]
+  edge [
+    source 0
+    target 2
+    distance 54.4518135602
+    name "assemblage-66-9*assemblage-12-16"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-12-16"
+    from_node "assemblage-66-9"
+  ]
+  edge [
+    source 0
+    target 3
+    distance 23.7065391823
+    name "assemblage-12-16*assemblage-33-5"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-33-5"
+    from_node "assemblage-12-16"
+  ]
+  edge [
+    source 0
+    target 4
+    distance 68.0
+    name "assemblage-12-16*assemblage-80-16"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-80-16"
+    from_node "assemblage-12-16"
+  ]
+  edge [
+    source 0
+    target 5
+    distance 25.0599281723
+    name "assemblage-12-16*assemblage-34-4"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-34-4"
+    from_node "assemblage-12-16"
+  ]
+  edge [
+    source 0
+    target 9
+    distance 88.2836338174
+    name "assemblage-99-1*assemblage-12-16"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-12-16"
+    from_node "assemblage-99-1"
+  ]
+  edge [
+    source 0
+    target 11
+    distance 85.0058821494
+    name "assemblage-97-15*assemblage-12-16"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-12-16"
+    from_node "assemblage-97-15"
+  ]
+  edge [
+    source 0
+    target 12
+    distance 72.0277724215
+    name "assemblage-12-16*assemblage-84-18"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-84-18"
+    from_node "assemblage-12-16"
+  ]
+  edge [
+    source 1
+    target 2
+    distance 54.3323108288
+    name "assemblage-12-15*assemblage-66-9"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-66-9"
+    from_node "assemblage-12-15"
+  ]
+  edge [
+    source 1
+    target 4
+    distance 68.0073525437
+    name "assemblage-80-16*assemblage-12-15"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-12-15"
+    from_node "assemblage-80-16"
+  ]
+  edge [
+    source 1
+    target 5
+    distance 24.5967477525
+    name "assemblage-12-15*assemblage-34-4"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-34-4"
+    from_node "assemblage-12-15"
+  ]
+  edge [
+    source 1
+    target 7
+    distance 47.3814309619
+    name "assemblage-59-9*assemblage-12-15"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-12-15"
+    from_node "assemblage-59-9"
+  ]
+  edge [
+    source 1
+    target 8
+    distance 27.7848879789
+    name "assemblage-36-1*assemblage-12-15"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-12-15"
+    from_node "assemblage-36-1"
+  ]
+  edge [
+    source 1
+    target 12
+    distance 72.0624728968
+    name "assemblage-12-15*assemblage-84-18"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-84-18"
+    from_node "assemblage-12-15"
+  ]
+  edge [
+    source 2
+    target 3
+    distance 33.2415402772
+    name "assemblage-66-9*assemblage-33-5"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-33-5"
+    from_node "assemblage-66-9"
+  ]
+  edge [
+    source 2
+    target 4
+    distance 15.6524758425
+    name "assemblage-66-9*assemblage-80-16"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-80-16"
+    from_node "assemblage-66-9"
+  ]
+  edge [
+    source 2
+    target 5
+    distance 32.3882694814
+    name "assemblage-34-4*assemblage-66-9"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-66-9"
+    from_node "assemblage-34-4"
+  ]
+  edge [
+    source 2
+    target 8
+    distance 31.0483493925
+    name "assemblage-66-9*assemblage-36-1"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-36-1"
+    from_node "assemblage-66-9"
+  ]
+  edge [
+    source 2
+    target 9
+    distance 33.9558536927
+    name "assemblage-66-9*assemblage-99-1"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-99-1"
+    from_node "assemblage-66-9"
+  ]
+  edge [
+    source 2
+    target 10
+    distance 8.94427191
+    name "assemblage-74-13*assemblage-66-9"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-66-9"
+    from_node "assemblage-74-13"
+  ]
+  edge [
+    source 2
+    target 12
+    distance 20.1246117975
+    name "assemblage-84-18*assemblage-66-9"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-66-9"
+    from_node "assemblage-84-18"
+  ]
+  edge [
+    source 3
+    target 5
+    distance 1.41421356237
+    name "assemblage-33-5*assemblage-34-4"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-34-4"
+    from_node "assemblage-33-5"
+  ]
+  edge [
+    source 3
+    target 8
+    distance 5.0
+    name "assemblage-33-5*assemblage-36-1"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-36-1"
+    from_node "assemblage-33-5"
+  ]
+  edge [
+    source 3
+    target 9
+    distance 66.1211010193
+    name "assemblage-99-1*assemblage-33-5"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-33-5"
+    from_node "assemblage-99-1"
+  ]
+  edge [
+    source 3
+    target 11
+    distance 64.7765389628
+    name "assemblage-97-15*assemblage-33-5"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-33-5"
+    from_node "assemblage-97-15"
+  ]
+  edge [
+    source 4
+    target 9
+    distance 24.2074368738
+    name "assemblage-99-1*assemblage-80-16"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-80-16"
+    from_node "assemblage-99-1"
+  ]
+  edge [
+    source 4
+    target 10
+    distance 6.7082039325
+    name "assemblage-74-13*assemblage-80-16"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-80-16"
+    from_node "assemblage-74-13"
+  ]
+  edge [
+    source 4
+    target 12
+    distance 4.472135955
+    name "assemblage-80-16*assemblage-84-18"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-84-18"
+    from_node "assemblage-80-16"
+  ]
+  edge [
+    source 5
+    target 8
+    distance 3.60555127546
+    name "assemblage-36-1*assemblage-34-4"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-34-4"
+    from_node "assemblage-36-1"
+  ]
+  edge [
+    source 5
+    target 9
+    distance 65.06919394
+    name "assemblage-99-1*assemblage-34-4"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-34-4"
+    from_node "assemblage-99-1"
+  ]
+  edge [
+    source 5
+    target 11
+    distance 63.9531078213
+    name "assemblage-97-15*assemblage-34-4"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-34-4"
+    from_node "assemblage-97-15"
+  ]
+  edge [
+    source 5
+    target 12
+    distance 51.923019943
+    name "assemblage-84-18*assemblage-34-4"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-34-4"
+    from_node "assemblage-84-18"
+  ]
+  edge [
+    source 6
+    target 10
+    distance 52.038447325
+    name "assemblage-22-15*assemblage-74-13"
+    weight 1
+    normalized 0.000333295750253
+    unnormalized_weight 1
+    to_node "assemblage-74-13"
+    from_node "assemblage-22-15"
+  ]
+  edge [
+    source 6
+    target 7
+    distance 37.483329628
+    name "assemblage-22-15*assemblage-59-9"
+    weight 1
+    normalized 0.000333295750253
+    unnormalized_weight 1
+    to_node "assemblage-59-9"
+    from_node "assemblage-22-15"
+  ]
+  edge [
+    source 6
+    target 11
+    distance 75.0
+    name "assemblage-22-15*assemblage-97-15"
+    weight 1
+    normalized 0.000333295750253
+    unnormalized_weight 1
+    to_node "assemblage-97-15"
+    from_node "assemblage-22-15"
+  ]
+  edge [
+    source 7
+    target 10
+    distance 15.5241746963
+    name "assemblage-74-13*assemblage-59-9"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-59-9"
+    from_node "assemblage-74-13"
+  ]
+  edge [
+    source 7
+    target 12
+    distance 26.5706605112
+    name "assemblage-59-9*assemblage-84-18"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-84-18"
+    from_node "assemblage-59-9"
+  ]
+  edge [
+    source 7
+    target 8
+    distance 24.3515913238
+    name "assemblage-59-9*assemblage-36-1"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-36-1"
+    from_node "assemblage-59-9"
+  ]
+  edge [
+    source 8
+    target 9
+    distance 63.0
+    name "assemblage-99-1*assemblage-36-1"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-36-1"
+    from_node "assemblage-99-1"
+  ]
+  edge [
+    source 9
+    target 10
+    distance 27.7308492477
+    name "assemblage-74-13*assemblage-99-1"
+    weight 1.0
+    normalized 0.000333295750253
+    unnormalized_weight 1.0
+    to_node "assemblage-99-1"
+    from_node "assemblage-74-13"
+  ]
+  edge [
+    source 9
+    target 12
+    distance 22.6715680975
+    name "assemblage-99-1*assemblage-84-18"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-84-18"
+    from_node "assemblage-99-1"
+  ]
+  edge [
+    source 12
+    target 12
+    distance 0.0
+    name "assemblage-84-18*assemblage-84-18"
+    weight 0.1
+    normalized 3.33295750253e-05
+    unnormalized_weight 0.1
+    to_node "assemblage-84-18"
+    from_node "assemblage-84-18"
+  ]
+]
