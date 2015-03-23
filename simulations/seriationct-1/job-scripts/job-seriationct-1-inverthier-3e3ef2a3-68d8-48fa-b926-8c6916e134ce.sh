@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sim-seriationct-networkmodel.py  --experiment seriationct-1-inverthier --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00817570636755 --simlength 6000 --debug 0 --seed 350117721 --reps 1 --samplefraction 0.5 --migrationfraction 0.069247107955 --devel 0 --networkmodel networks/inverthier.zip
+sim-seriationct-networkmodel.py  --experiment seriationct-1-inverthier --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.0044810349912 --simlength 6000 --debug 0 --seed 737631652 --reps 1 --samplefraction 0.5 --migrationfraction 0.0607661687746 --devel 0 --networkmodel networks/inverthier.zip
+sim-seriationct-networkmodel.py  --experiment seriationct-1-inverthier --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00437725409075 --simlength 6000 --debug 0 --seed 344615537 --reps 1 --samplefraction 0.5 --migrationfraction 0.0828131145139 --devel 0 --networkmodel networks/inverthier.zip
+sim-seriationct-networkmodel.py  --experiment seriationct-1-inverthier --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00537044788277 --simlength 6000 --debug 0 --seed 1660366833 --reps 1 --samplefraction 0.5 --migrationfraction 0.152067517094 --devel 0 --networkmodel networks/inverthier.zip
