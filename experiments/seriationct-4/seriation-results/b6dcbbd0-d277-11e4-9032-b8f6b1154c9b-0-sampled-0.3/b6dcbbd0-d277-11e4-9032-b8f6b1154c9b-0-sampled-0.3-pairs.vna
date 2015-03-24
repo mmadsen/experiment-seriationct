@@ -1,0 +1,49 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 4574.0 4e-06 0.00057 4.0 17.0
+assemblage-26-45 165105.0 4.5e-05 0.00048 45.0 26.0
+assemblage-14-31 165105.0 3.1e-05 0.0006 31.0 14.0
+assemblage-73-8 4574.0 8e-06 1e-05 8.0 73.0
+assemblage-53-34 163878.0 3.4e-05 0.00021 34.0 53.0
+assemblage-41-8 4574.0 8e-06 0.00033 8.0 41.0
+assemblage-40-68 163878.0 6.8e-05 0.00034 68.0 40.0
+assemblage-27-49 4574.0 4.9e-05 0.00047 49.0 27.0
+assemblage-15-46 4574.0 4.6e-05 0.00059 46.0 15.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 4574.0 4e-06 0.00057 4.0 17.0
+assemblage-26-45 165105.0 4.5e-05 0.00048 45.0 26.0
+assemblage-14-31 165105.0 3.1e-05 0.0006 31.0 14.0
+assemblage-73-8 4574.0 8e-06 1e-05 8.0 73.0
+assemblage-53-34 163878.0 3.4e-05 0.00021 34.0 53.0
+assemblage-41-8 4574.0 8e-06 0.00033 8.0 41.0
+assemblage-40-68 163878.0 6.8e-05 0.00034 68.0 40.0
+assemblage-27-49 4574.0 4.9e-05 0.00047 49.0 27.0
+assemblage-15-46 4574.0 4.6e-05 0.00059 46.0 15.0
+*Tie data
+From To Edge Count
+assemblage-40-68	assemblage-41-8	 1 1
+assemblage-41-8	assemblage-53-34	 1 1
+assemblage-27-49	assemblage-14-31	 1 1
+assemblage-41-8	assemblage-73-8	 1 1
+assemblage-15-46	assemblage-14-31	 1 1
+assemblage-41-8	assemblage-14-31	 1 1
+assemblage-40-68	assemblage-14-31	 1 1
+assemblage-26-45	assemblage-53-34	 1 1
+assemblage-17-4	assemblage-53-34	 1 1
+assemblage-40-68	assemblage-27-49	 1 1
+assemblage-53-34	assemblage-15-46	 1 1
+assemblage-53-34	assemblage-41-8	 1 1
+assemblage-27-49	assemblage-53-34	 1 1
+assemblage-53-34	assemblage-27-49	 1 1
+assemblage-73-8	assemblage-14-31	 1 1
+assemblage-40-68	assemblage-53-34	 1 1
+assemblage-17-4	assemblage-14-31	 1 1
+assemblage-15-46	assemblage-53-34	 1 1
+assemblage-53-34	assemblage-73-8	 1 1
+assemblage-17-4	assemblage-41-8	 1 1
+assemblage-40-68	assemblage-15-46	 1 1
+assemblage-26-45	assemblage-14-31	 1 1
+assemblage-17-4	assemblage-26-45	 1 1
+assemblage-40-68	assemblage-26-45	 1 1
+assemblage-53-34	assemblage-14-31	 1 1
