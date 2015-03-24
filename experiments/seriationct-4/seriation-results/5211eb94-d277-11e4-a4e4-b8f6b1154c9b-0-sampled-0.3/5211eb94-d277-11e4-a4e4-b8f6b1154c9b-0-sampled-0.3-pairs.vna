@@ -1,0 +1,55 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 5222.0 4e-06 0.00057 4.0 17.0
+assemblage-26-45 163739.0 4.5e-05 0.00048 45.0 26.0
+assemblage-43-9 164140.0 9e-06 0.00031 9.0 43.0
+assemblage-63-12 5222.0 1.2e-05 0.00011 12.0 63.0
+assemblage-73-41 164370.0 4.1e-05 1e-05 41.0 73.0
+assemblage-41-8 5222.0 8e-06 0.00033 8.0 41.0
+assemblage-40-68 164104.0 6.8e-05 0.00034 68.0 40.0
+assemblage-27-49 5222.0 4.9e-05 0.00047 49.0 27.0
+assemblage-3-10 164370.0 1e-05 0.00071 10.0 3.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 5222.0 4e-06 0.00057 4.0 17.0
+assemblage-26-45 163739.0 4.5e-05 0.00048 45.0 26.0
+assemblage-43-9 164140.0 9e-06 0.00031 9.0 43.0
+assemblage-63-12 5222.0 1.2e-05 0.00011 12.0 63.0
+assemblage-73-41 164370.0 4.1e-05 1e-05 41.0 73.0
+assemblage-41-8 5222.0 8e-06 0.00033 8.0 41.0
+assemblage-40-68 164104.0 6.8e-05 0.00034 68.0 40.0
+assemblage-27-49 5222.0 4.9e-05 0.00047 49.0 27.0
+assemblage-3-10 164370.0 1e-05 0.00071 10.0 3.0
+*Tie data
+From To Edge Count
+assemblage-40-68	assemblage-41-8	 1 1
+assemblage-40-68	assemblage-43-9	 1 1
+assemblage-40-68	assemblage-17-4	 1 1
+assemblage-43-9	assemblage-41-8	 1 1
+assemblage-63-12	assemblage-3-10	 1 1
+assemblage-40-68	assemblage-27-49	 1 1
+assemblage-26-45	assemblage-63-12	 1 1
+assemblage-43-9	assemblage-63-12	 1 1
+assemblage-26-45	assemblage-3-10	 1 1
+assemblage-27-49	assemblage-3-10	 1 1
+assemblage-43-9	assemblage-26-45	 1 1
+assemblage-17-4	assemblage-27-49	 1 1
+assemblage-40-68	assemblage-73-41	 1 1
+assemblage-43-9	assemblage-3-10	 1 1
+assemblage-63-12	assemblage-73-41	 1 1
+assemblage-17-4	assemblage-43-9	 1 1
+assemblage-27-49	assemblage-73-41	 1 1
+assemblage-26-45	assemblage-73-41	 1 1
+assemblage-41-8	assemblage-63-12	 1 1
+assemblage-73-41	assemblage-3-10	 1 1
+assemblage-41-8	assemblage-73-41	 1 1
+assemblage-40-68	assemblage-63-12	 1 1
+assemblage-27-49	assemblage-41-8	 1 1
+assemblage-43-9	assemblage-27-49	 1 1
+assemblage-43-9	assemblage-73-41	 1 1
+assemblage-40-68	assemblage-3-10	 1 1
+assemblage-17-4	assemblage-73-41	 1 1
+assemblage-27-49	assemblage-63-12	 1 1
+assemblage-17-4	assemblage-26-45	 1 1
+assemblage-40-68	assemblage-26-45	 1 1
+assemblage-17-4	assemblage-63-12	 1 1
