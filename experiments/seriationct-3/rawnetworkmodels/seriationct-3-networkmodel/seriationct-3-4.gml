@@ -1,0 +1,127 @@
+graph [
+  is_directed 0
+  node [
+    id 0
+    label "assemblage-55-53"
+    appears_in_slice 1
+    ycoord 53
+    level "root"
+    child_of "nobody"
+    xcoord 55
+    parent_node "i_am_root"
+  ]
+  node [
+    id 1
+    label "assemblage-10-73"
+    appears_in_slice 4
+    ycoord 73
+    level "child"
+    child_of "root"
+    xcoord 10
+    parent_node "assemblage-55-53"
+  ]
+  node [
+    id 2
+    label "assemblage-32-41"
+    appears_in_slice 4
+    ycoord 41
+    level "child"
+    child_of "root"
+    xcoord 32
+    parent_node "assemblage-55-53"
+  ]
+  node [
+    id 3
+    label "assemblage-69-73"
+    appears_in_slice 4
+    ycoord 73
+    level "child"
+    child_of "root"
+    xcoord 69
+    parent_node "assemblage-55-53"
+  ]
+  edge [
+    source 0
+    target 3
+    distance 24.4131112315
+    group "level_1"
+    name "assemblage-55-53*assemblage-69-73"
+    weight 0.25
+    linked_from "root"
+    normalized 4.93487240254e-05
+    unnormalized_weight 0.25
+    type "root_to_child"
+    to_node "assemblage-69-73"
+    from_node "assemblage-55-53"
+  ]
+  edge [
+    source 0
+    target 2
+    distance 25.9422435421
+    group "level_1"
+    name "assemblage-55-53*assemblage-32-41"
+    weight 0.25
+    linked_from "root"
+    normalized 4.93487240254e-05
+    unnormalized_weight 0.25
+    type "root_to_child"
+    to_node "assemblage-32-41"
+    from_node "assemblage-55-53"
+  ]
+  edge [
+    source 0
+    target 1
+    distance 49.244289009
+    group "level_1"
+    name "assemblage-55-53*assemblage-10-73"
+    weight 0.25
+    linked_from "root"
+    normalized 4.93487240254e-05
+    unnormalized_weight 0.25
+    type "root_to_child"
+    to_node "assemblage-10-73"
+    from_node "assemblage-55-53"
+  ]
+  edge [
+    source 1
+    target 3
+    distance 59.0
+    group "root"
+    name "assemblage-69-73*assemblage-10-73"
+    weight 0.1
+    linked_from "interconnect"
+    normalized 1.97394896102e-05
+    unnormalized_weight 0.1
+    type "child_to_child"
+    to_node "assemblage-10-73"
+    from_node "assemblage-69-73"
+  ]
+  edge [
+    source 1
+    target 2
+    distance 38.8329756779
+    group "root"
+    name "assemblage-10-73*assemblage-32-41"
+    weight 0.1
+    linked_from "interconnect"
+    normalized 1.97394896102e-05
+    unnormalized_weight 0.1
+    type "child_to_child"
+    to_node "assemblage-32-41"
+    from_node "assemblage-10-73"
+  ]
+  edge [
+    source 2
+    target 3
+    distance 48.9182992345
+    group "root"
+    name "assemblage-69-73*assemblage-32-41"
+    weight 0.1
+    linked_from "interconnect"
+    normalized 1.97394896102e-05
+    unnormalized_weight 0.1
+    type "child_to_child"
+    to_node "assemblage-32-41"
+    from_node "assemblage-69-73"
+  ]
+]
