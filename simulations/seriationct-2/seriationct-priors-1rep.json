@@ -8,5 +8,5 @@
     "samplefraction" : 0.5,
     "migrationfraction_low" : 0.05,
     "migrationfraction_high" : 0.2,
-    "replicates" : 5 
+    "replicates" : 1 
 }
