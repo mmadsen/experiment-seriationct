@@ -19,6 +19,18 @@ mkdir seriation-results
 mkdir temporal
 mkdir xyfiles
 
+# touch a file in each, so that the empty directories persist in Git 
+# prior to having content.  this makes it easier to synchronize an experiment
+# through Github to multiple machines
+touch exported-data/README
+touch jobs/README
+touch sampled-data/README
+touch seriation-results/README
+touch temporal/README
+touch xyfiles/README
+
+
+
 cd ..
 
 echo "Experiment $1 directory structure complete"
