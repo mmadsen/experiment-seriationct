@@ -40,7 +40,7 @@ NsS'minmaxbycount'
 p18
 NsS'inputfile'
 p19
-S'sampled-data/5211eb94-d277-11e4-a4e4-b8f6b1154c9b-0-sampled-0.3.txt'
+S'sampled-data/9580cfbc-d277-11e4-914e-b8f6b1154c9b-0-sampled-0.3.txt'
 p20
 sS'occurrenceseriation'
 p21
@@ -72,7 +72,7 @@ NsS'largestonly'
 p32
 NsS'outputdirectory'
 p33
-S'seriation-results/5211eb94-d277-11e4-a4e4-b8f6b1154c9b-0-sampled-0.3'
+S'seriation-results/9580cfbc-d277-11e4-914e-b8f6b1154c9b-0-sampled-0.3'
 p34
 sS'bootstrapSignificance'
 p35

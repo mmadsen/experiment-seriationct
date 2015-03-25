@@ -1,0 +1,119 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 4646.0 4e-06 0.00057 4.0 17.0
+assemblage-13-43 164671.0 4.3e-05 0.00061 43.0 13.0
+assemblage-14-31 164143.0 3.1e-05 0.0006 31.0 14.0
+assemblage-25-47 4646.0 4.7e-05 0.00049 47.0 25.0
+assemblage-53-34 164671.0 3.4e-05 0.00021 34.0 53.0
+assemblage-62-37 163864.0 3.7e-05 0.00012 37.0 62.0
+assemblage-60-72 4646.0 7.2e-05 0.00014 72.0 60.0
+assemblage-17-33 163568.0 3.3e-05 0.00057 33.0 17.0
+assemblage-3-10 163568.0 1e-05 0.00071 10.0 3.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 4646.0 4e-06 0.00057 4.0 17.0
+assemblage-13-43 164671.0 4.3e-05 0.00061 43.0 13.0
+assemblage-14-31 164143.0 3.1e-05 0.0006 31.0 14.0
+assemblage-25-47 4646.0 4.7e-05 0.00049 47.0 25.0
+assemblage-53-34 164671.0 3.4e-05 0.00021 34.0 53.0
+assemblage-62-37 163864.0 3.7e-05 0.00012 37.0 62.0
+assemblage-60-72 4646.0 7.2e-05 0.00014 72.0 60.0
+assemblage-17-33 163568.0 3.3e-05 0.00057 33.0 17.0
+assemblage-3-10 163568.0 1e-05 0.00071 10.0 3.0
+*Tie data
+From To Edge Weight Network End pValue pError meanSolutionDistance
+assemblage-62-37 assemblage-13-43 1 3 urn:uuid:5c8f9ce9-a939-4291-864f-8dbf32e9670b 0.0 0.0 47.0587723382
+assemblage-62-37 assemblage-3-10 1 3 urn:uuid:5c8f9ce9-a939-4291-864f-8dbf32e9670b 0.0 0.0 47.0587723382
+assemblage-17-33 assemblage-3-10 1 3 urn:uuid:5c8f9ce9-a939-4291-864f-8dbf32e9670b 0.0 0.0 47.0587723382
+assemblage-62-37 assemblage-13-43 1 2 urn:uuid:2aef946e-9201-4c54-884d-05317869b43e 0.0 0.0 42.2115382374
+assemblage-62-37 assemblage-60-72 1 2 urn:uuid:2aef946e-9201-4c54-884d-05317869b43e 0.0 0.0 42.2115382374
+assemblage-62-37 assemblage-13-43 1 2 urn:uuid:acd5bfd4-e37b-4314-91be-f40fdde69792 0.0 0.0 44.2852858783
+assemblage-17-4 assemblage-13-43 1 2 urn:uuid:acd5bfd4-e37b-4314-91be-f40fdde69792 0.0 0.0 44.2852858783
+assemblage-17-33 assemblage-3-10 1 2 urn:uuid:a6789d41-d5e7-4ec9-983c-a4929b024188 0.0 0.0 42.4887625652
+assemblage-17-33 assemblage-60-72 1 2 urn:uuid:a6789d41-d5e7-4ec9-983c-a4929b024188 0.0 0.0 42.4887625652
+assemblage-62-37 assemblage-3-10 1 2 urn:uuid:92987309-ecba-4875-9566-1fadbc4a9cc3 0.0 0.0 37.1856728853
+assemblage-62-37 assemblage-53-34 1 2 urn:uuid:92987309-ecba-4875-9566-1fadbc4a9cc3 0.0 0.0 37.1856728853
+assemblage-62-37 assemblage-17-33 1 2 urn:uuid:ef6ed964-ce39-4e82-8e7a-55f12f6a2c74 0.0 0.0 27.3321304864
+assemblage-62-37 assemblage-53-34 1 2 urn:uuid:ef6ed964-ce39-4e82-8e7a-55f12f6a2c74 0.0 0.0 27.3321304864
+assemblage-62-37 assemblage-60-72 1 2 urn:uuid:45e69456-90d6-42b3-8ae2-82fc9a066db3 0.0 0.0 22.2719646332
+assemblage-62-37 assemblage-53-34 1 2 urn:uuid:45e69456-90d6-42b3-8ae2-82fc9a066db3 0.0 0.0 22.2719646332
+assemblage-17-33 assemblage-25-47 1 2 urn:uuid:f88c0a43-fb8b-4432-ab18-2db292bc2a70 0.0 0.0 21.5251697661
+assemblage-17-33 assemblage-3-10 1 2 urn:uuid:f88c0a43-fb8b-4432-ab18-2db292bc2a70 0.0 0.0 21.5251697661
+assemblage-25-47 assemblage-60-72 1 2 urn:uuid:d2408085-f57d-4f02-af26-ede80833a360 0.0 0.0 63.6157882329
+assemblage-3-10 assemblage-60-72 1 2 urn:uuid:d2408085-f57d-4f02-af26-ede80833a360 0.0 0.0 63.6157882329
+assemblage-17-33 assemblage-60-72 1 2 urn:uuid:97beeeb9-8de5-4cc9-95e1-c80758cb7d0b 0.0 0.0 50.531663715
+assemblage-25-47 assemblage-60-72 1 2 urn:uuid:97beeeb9-8de5-4cc9-95e1-c80758cb7d0b 0.0 0.0 50.531663715
+assemblage-62-37 assemblage-25-47 1 2 urn:uuid:958db27d-5703-4f66-b79b-af016a65d4ae 0.0 0.0 51.6060242918
+assemblage-62-37 assemblage-3-10 1 2 urn:uuid:958db27d-5703-4f66-b79b-af016a65d4ae 0.0 0.0 51.6060242918
+assemblage-62-37 assemblage-17-33 1 2 urn:uuid:cd1978dd-77e1-43b2-9786-126c426a975c 0.0 0.0 41.7524818929
+assemblage-62-37 assemblage-25-47 1 2 urn:uuid:cd1978dd-77e1-43b2-9786-126c426a975c 0.0 0.0 41.7524818929
+assemblage-25-47 assemblage-53-34 1 2 urn:uuid:216d36fb-ce34-4a24-9948-99aa280693c6 0.0 0.0 43.1661982882
+assemblage-3-10 assemblage-53-34 1 2 urn:uuid:216d36fb-ce34-4a24-9948-99aa280693c6 0.0 0.0 43.1661982882
+assemblage-17-33 assemblage-53-34 1 2 urn:uuid:4f7168b1-10ff-48d0-8f59-3a4e84b8d775 0.0 0.0 33.4422921458
+assemblage-25-47 assemblage-53-34 1 2 urn:uuid:4f7168b1-10ff-48d0-8f59-3a4e84b8d775 0.0 0.0 33.4422921458
+assemblage-62-37 assemblage-53-34 1 2 urn:uuid:08013c3a-88d0-454b-916d-214fa7fadbca 0.0 0.0 20.1787655307
+assemblage-25-47 assemblage-53-34 1 2 urn:uuid:08013c3a-88d0-454b-916d-214fa7fadbca 0.0 0.0 20.1787655307
+assemblage-62-37 assemblage-3-10 1 2 urn:uuid:38a67b6f-7261-4411-8d3a-6aad10927b6f 0.0 0.0 56.6290296399
+assemblage-62-37 assemblage-14-31 1 2 urn:uuid:38a67b6f-7261-4411-8d3a-6aad10927b6f 0.0 0.0 56.6290296399
+assemblage-62-37 assemblage-17-33 1 2 urn:uuid:57d05284-cab3-4a4e-bd24-67e179a23983 0.0 0.0 46.775487241
+assemblage-62-37 assemblage-14-31 1 2 urn:uuid:57d05284-cab3-4a4e-bd24-67e179a23983 0.0 0.0 46.775487241
+assemblage-62-37 assemblage-60-72 1 2 urn:uuid:d0992d98-aaf5-4527-8086-359345ec20da 0.0 0.0 41.7153213879
+assemblage-62-37 assemblage-14-31 1 2 urn:uuid:d0992d98-aaf5-4527-8086-359345ec20da 0.0 0.0 41.7153213879
+assemblage-53-34 assemblage-3-10 1 2 urn:uuid:df4155b3-8366-48cc-9f85-5bc3ebd43f1c 0.0 0.0 47.2884564633
+assemblage-53-34 assemblage-14-31 1 2 urn:uuid:df4155b3-8366-48cc-9f85-5bc3ebd43f1c 0.0 0.0 47.2884564633
+assemblage-17-33 assemblage-53-34 1 2 urn:uuid:962eb350-bf22-4ee7-9745-63494549c3ee 0.0 0.0 37.564550321
+assemblage-53-34 assemblage-14-31 1 2 urn:uuid:962eb350-bf22-4ee7-9745-63494549c3ee 0.0 0.0 37.564550321
+assemblage-53-34 assemblage-60-72 1 2 urn:uuid:323df26d-3f72-4d5c-9260-c0771d4b64c2 0.0 0.0 38.877286302
+assemblage-53-34 assemblage-14-31 1 2 urn:uuid:323df26d-3f72-4d5c-9260-c0771d4b64c2 0.0 0.0 38.877286302
+assemblage-3-10 assemblage-53-34 1 2 urn:uuid:37541987-4bc3-4ff3-9ec0-39120aa08fda 0.0 0.0 48.2308492477
+assemblage-13-43 assemblage-53-34 1 2 urn:uuid:37541987-4bc3-4ff3-9ec0-39120aa08fda 0.0 0.0 48.2308492477
+assemblage-17-33 assemblage-53-34 1 2 urn:uuid:e0e1f668-2635-483d-b3cf-8294c9bbee90 0.0 0.0 38.5069431054
+assemblage-13-43 assemblage-53-34 1 2 urn:uuid:e0e1f668-2635-483d-b3cf-8294c9bbee90 0.0 0.0 38.5069431054
+assemblage-60-72 assemblage-53-34 1 2 urn:uuid:f98dec51-ff9e-4b78-baa6-655bce36258f 0.0 0.0 39.8196790864
+assemblage-13-43 assemblage-53-34 1 2 urn:uuid:f98dec51-ff9e-4b78-baa6-655bce36258f 0.0 0.0 39.8196790864
+assemblage-3-10 assemblage-14-31 1 2 urn:uuid:4dc65b0d-7fd9-4558-ac4d-e9ba92c937a7 0.0 0.0 17.8740668805
+assemblage-13-43 assemblage-14-31 1 2 urn:uuid:4dc65b0d-7fd9-4558-ac4d-e9ba92c937a7 0.0 0.0 17.8740668805
+assemblage-17-33 assemblage-14-31 1 2 urn:uuid:ff548a62-378e-41a7-aeea-81ebcafa9d98 0.0 0.0 7.82357292713
+assemblage-13-43 assemblage-14-31 1 2 urn:uuid:ff548a62-378e-41a7-aeea-81ebcafa9d98 0.0 0.0 7.82357292713
+assemblage-60-72 assemblage-14-31 1 2 urn:uuid:073ba9fd-0f43-4ca9-9ff0-d6c95b06c9a6 0.0 0.0 36.8306982954
+assemblage-13-43 assemblage-14-31 1 2 urn:uuid:073ba9fd-0f43-4ca9-9ff0-d6c95b06c9a6 0.0 0.0 36.8306982954
+assemblage-53-34 assemblage-14-31 1 2 urn:uuid:c5706b98-027c-4e69-afa4-37ece245d6af 0.0 0.0 25.578404505
+assemblage-13-43 assemblage-14-31 1 2 urn:uuid:c5706b98-027c-4e69-afa4-37ece245d6af 0.0 0.0 25.578404505
+assemblage-25-47 assemblage-14-31 1 2 urn:uuid:b1c6adde-e1a1-43b5-8961-40c151081056 0.0 0.0 15.7290412089
+assemblage-13-43 assemblage-14-31 1 2 urn:uuid:b1c6adde-e1a1-43b5-8961-40c151081056 0.0 0.0 15.7290412089
+assemblage-17-33 assemblage-17-4 1 2 urn:uuid:855af9e9-5882-47f2-b109-781cf936531f 0.0 0.0 27.9629120178
+assemblage-17-33 assemblage-3-10 1 2 urn:uuid:855af9e9-5882-47f2-b109-781cf936531f 0.0 0.0 27.9629120178
+assemblage-17-4 assemblage-60-72 1 2 urn:uuid:44613873-625e-46ea-83f3-ccbf1bb78458 0.0 0.0 82.3374532363
+assemblage-3-10 assemblage-60-72 1 2 urn:uuid:44613873-625e-46ea-83f3-ccbf1bb78458 0.0 0.0 82.3374532363
+assemblage-17-33 assemblage-60-72 1 2 urn:uuid:1c71a174-27c6-4bed-aaca-1167e5444a2b 0.0 0.0 69.2533287184
+assemblage-17-4 assemblage-60-72 1 2 urn:uuid:1c71a174-27c6-4bed-aaca-1167e5444a2b 0.0 0.0 69.2533287184
+assemblage-62-37 assemblage-17-4 1 2 urn:uuid:6ca6b4c6-1888-445c-acec-c0b636c49a69 0.0 0.0 60.3438692516
+assemblage-62-37 assemblage-3-10 1 2 urn:uuid:6ca6b4c6-1888-445c-acec-c0b636c49a69 0.0 0.0 60.3438692516
+assemblage-62-37 assemblage-17-33 1 2 urn:uuid:a1e48fac-871e-49cd-85a9-2f775c1642d9 0.0 0.0 50.4903268528
+assemblage-62-37 assemblage-17-4 1 2 urn:uuid:a1e48fac-871e-49cd-85a9-2f775c1642d9 0.0 0.0 50.4903268528
+assemblage-17-4 assemblage-53-34 1 2 urn:uuid:b5723718-8ce7-4abd-9783-4366ace77e81 0.0 0.0 51.1615982754
+assemblage-3-10 assemblage-53-34 1 2 urn:uuid:b5723718-8ce7-4abd-9783-4366ace77e81 0.0 0.0 51.1615982754
+assemblage-17-33 assemblage-53-34 1 2 urn:uuid:4d2bf3ac-9a28-433b-bb4d-d0f368db319f 0.0 0.0 41.4376921331
+assemblage-17-4 assemblage-53-34 1 2 urn:uuid:4d2bf3ac-9a28-433b-bb4d-d0f368db319f 0.0 0.0 41.4376921331
+assemblage-62-37 assemblage-53-34 1 2 urn:uuid:c30bd0b4-eab4-4d2a-ac17-6f52379177f8 0.0 0.0 28.174165518
+assemblage-17-4 assemblage-53-34 1 2 urn:uuid:c30bd0b4-eab4-4d2a-ac17-6f52379177f8 0.0 0.0 28.174165518
+assemblage-17-4 assemblage-14-31 1 2 urn:uuid:c0a0e67f-8939-4ab2-b6fe-49425d7b2b34 0.0 0.0 25.4363472983
+assemblage-3-10 assemblage-14-31 1 2 urn:uuid:c0a0e67f-8939-4ab2-b6fe-49425d7b2b34 0.0 0.0 25.4363472983
+assemblage-17-33 assemblage-14-31 1 2 urn:uuid:530889c1-fa4d-4cea-a1cb-cb05777915ff 0.0 0.0 15.3858533449
+assemblage-17-4 assemblage-14-31 1 2 urn:uuid:530889c1-fa4d-4cea-a1cb-cb05777915ff 0.0 0.0 15.3858533449
+assemblage-62-37 assemblage-14-31 1 2 urn:uuid:4e4aa2af-43e3-4f2d-937e-1f3e2bfe95d2 0.0 0.0 37.7698509521
+assemblage-17-4 assemblage-14-31 1 2 urn:uuid:4e4aa2af-43e3-4f2d-937e-1f3e2bfe95d2 0.0 0.0 37.7698509521
+assemblage-17-4 assemblage-14-31 1 2 urn:uuid:536a8040-d82a-4e4b-b84a-c56d5fe25521 0.0 0.0 33.1406849228
+assemblage-53-34 assemblage-14-31 1 2 urn:uuid:536a8040-d82a-4e4b-b84a-c56d5fe25521 0.0 0.0 33.1406849228
+assemblage-17-4 assemblage-14-31 1 2 urn:uuid:ce108921-ab5d-4e0c-9e7e-b135779dfec4 0.0 0.0 23.2913216267
+assemblage-25-47 assemblage-14-31 1 2 urn:uuid:ce108921-ab5d-4e0c-9e7e-b135779dfec4 0.0 0.0 23.2913216267
+assemblage-17-4 assemblage-13-43 1 2 urn:uuid:b8506af7-5d65-43e8-a3c6-d1ae91e81fba 0.0 0.0 36.8432354335
+assemblage-13-43 assemblage-3-10 1 2 urn:uuid:b8506af7-5d65-43e8-a3c6-d1ae91e81fba 0.0 0.0 36.8432354335
+assemblage-17-33 assemblage-13-43 1 2 urn:uuid:af865f6e-26e8-4dc3-9326-24704a4aa91d 0.0 0.0 24.987460591
+assemblage-17-4 assemblage-13-43 1 2 urn:uuid:af865f6e-26e8-4dc3-9326-24704a4aa91d 0.0 0.0 24.987460591
+assemblage-17-4 assemblage-13-43 1 2 urn:uuid:54f331d8-833e-48c6-b406-9a4497f5e721 0.0 0.0 40.1022957839
+assemblage-13-43 assemblage-53-34 1 2 urn:uuid:54f331d8-833e-48c6-b406-9a4497f5e721 0.0 0.0 40.1022957839
+assemblage-17-4 assemblage-13-43 1 2 urn:uuid:0372c259-f9e4-4280-8ce6-ca707f449cf5 0.0 0.0 25.9268511042
+assemblage-25-47 assemblage-13-43 1 2 urn:uuid:0372c259-f9e4-4280-8ce6-ca707f449cf5 0.0 0.0 25.9268511042
+assemblage-17-4 assemblage-13-43 1 2 urn:uuid:887d28d1-58cc-434a-89f5-2be7293e3fd3 0.0 0.0 25.6230930733
+assemblage-13-43 assemblage-14-31 1 2 urn:uuid:887d28d1-58cc-434a-89f5-2be7293e3fd3 0.0 0.0 25.6230930733

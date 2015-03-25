@@ -1,0 +1,58 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 4646.0 4e-06 0.00057 4.0 17.0
+assemblage-13-43 164671.0 4.3e-05 0.00061 43.0 13.0
+assemblage-14-31 164143.0 3.1e-05 0.0006 31.0 14.0
+assemblage-25-47 4646.0 4.7e-05 0.00049 47.0 25.0
+assemblage-53-34 164671.0 3.4e-05 0.00021 34.0 53.0
+assemblage-62-37 163864.0 3.7e-05 0.00012 37.0 62.0
+assemblage-60-72 4646.0 7.2e-05 0.00014 72.0 60.0
+assemblage-17-33 163568.0 3.3e-05 0.00057 33.0 17.0
+assemblage-3-10 163568.0 1e-05 0.00071 10.0 3.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-17-4 4646.0 4e-06 0.00057 4.0 17.0
+assemblage-13-43 164671.0 4.3e-05 0.00061 43.0 13.0
+assemblage-14-31 164143.0 3.1e-05 0.0006 31.0 14.0
+assemblage-25-47 4646.0 4.7e-05 0.00049 47.0 25.0
+assemblage-53-34 164671.0 3.4e-05 0.00021 34.0 53.0
+assemblage-62-37 163864.0 3.7e-05 0.00012 37.0 62.0
+assemblage-60-72 4646.0 7.2e-05 0.00014 72.0 60.0
+assemblage-17-33 163568.0 3.3e-05 0.00057 33.0 17.0
+assemblage-3-10 163568.0 1e-05 0.00071 10.0 3.0
+*Tie data
+From To Edge Count
+assemblage-3-10	assemblage-14-31	 1 1
+assemblage-25-47	assemblage-53-34	 1 1
+assemblage-62-37	assemblage-13-43	 1 1
+assemblage-17-33	assemblage-53-34	 1 1
+assemblage-62-37	assemblage-14-31	 1 1
+assemblage-62-37	assemblage-17-33	 1 1
+assemblage-25-47	assemblage-14-31	 1 1
+assemblage-17-33	assemblage-3-10	 1 1
+assemblage-17-4	assemblage-53-34	 1 1
+assemblage-62-37	assemblage-60-72	 1 1
+assemblage-53-34	assemblage-60-72	 1 1
+assemblage-13-43	assemblage-14-31	 1 1
+assemblage-62-37	assemblage-17-4	 1 1
+assemblage-60-72	assemblage-53-34	 1 1
+assemblage-17-4	assemblage-13-43	 1 1
+assemblage-60-72	assemblage-14-31	 1 1
+assemblage-17-33	assemblage-17-4	 1 1
+assemblage-17-4	assemblage-60-72	 1 1
+assemblage-62-37	assemblage-53-34	 1 1
+assemblage-25-47	assemblage-13-43	 1 1
+assemblage-17-33	assemblage-13-43	 1 1
+assemblage-17-4	assemblage-14-31	 1 1
+assemblage-17-33	assemblage-14-31	 1 1
+assemblage-62-37	assemblage-25-47	 1 1
+assemblage-3-10	assemblage-53-34	 1 1
+assemblage-62-37	assemblage-3-10	 1 1
+assemblage-17-33	assemblage-25-47	 1 1
+assemblage-25-47	assemblage-60-72	 1 1
+assemblage-53-34	assemblage-3-10	 1 1
+assemblage-17-33	assemblage-60-72	 1 1
+assemblage-53-34	assemblage-14-31	 1 1
+assemblage-13-43	assemblage-3-10	 1 1
+assemblage-3-10	assemblage-60-72	 1 1
+assemblage-13-43	assemblage-53-34	 1 1
