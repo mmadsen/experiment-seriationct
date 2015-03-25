@@ -1,12 +1,12 @@
 {
-    "theta_low": 0.001,
-    "theta_high": 0.01,
+    "theta_low": 0.0005,
+    "theta_high": 0.001,
     "maxinittraits": 5,
     "numloci": 3,
     "popsize": 250,
-    "simlength": 6000,
+    "simlength": 10000,
     "samplefraction" : 0.5,
-    "migrationfraction_low" : 0.05,
-    "migrationfraction_high" : 0.2,
+    "migrationfraction_low" : 0.005,
+    "migrationfraction_high" : 0.01,
     "replicates" : 1 
 }
