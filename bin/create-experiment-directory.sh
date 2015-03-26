@@ -4,8 +4,10 @@ mkdir $1
 cp -rp ../template/bin $1
 cp ../template/run-experiment-steps.sh $1/
 cp ../template/seriationct-priors.json $1/
+cp ../template/README.md $1/
 cd $1/bin
 perl -pi.bak -e "s/REPLACEME/$1/g" *.sh
+perl -pi.bak -e "s/REPLACEME/$1/g" *.md
 rm *.bak
 cd ..
 

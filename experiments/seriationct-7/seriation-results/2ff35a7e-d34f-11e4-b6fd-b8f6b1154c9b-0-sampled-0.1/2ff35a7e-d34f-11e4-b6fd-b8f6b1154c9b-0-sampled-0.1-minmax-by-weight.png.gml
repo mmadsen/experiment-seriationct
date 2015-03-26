@@ -207,7 +207,9 @@ graph [
   edge [
     source 10
     target 14
-    inverseweight 1e+12
-    weight 1e-12
+    #inverseweight 1e+12
+    inverseweight 100000 
+    #weight 1e-12
+    weight 0.000001 
   ]
 ]
