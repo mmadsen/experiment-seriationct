@@ -1,0 +1,56 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-12-16 71027.0 1.6e-05 0.00037 16.0 12.0
+assemblage-12-23 71027.0 2.3e-05 0.00037 23.0 12.0
+assemblage-27-14 71027.0 1.4e-05 0.00022 14.0 27.0
+assemblage-5-6 107935.0 6e-06 0.00044 6.0 5.0
+assemblage-28-19 44350.0 1.9e-05 0.00021 19.0 28.0
+assemblage-21-17 44350.0 1.7e-05 0.00028 17.0 21.0
+assemblage-17-3 37886.0 3e-06 0.00032 3.0 17.0
+assemblage-30-24 43697.0 2.4e-05 0.00019 24.0 30.0
+assemblage-9-19 37886.0 1.9e-05 0.0004 19.0 9.0
+assemblage-41-27 43697.0 2.7e-05 8e-05 27.0 41.0
+assemblage-8-6 71027.0 6e-06 0.00041 6.0 8.0
+assemblage-49-1 44350.0 1e-06 0.0 1.0 49.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-12-16 71027.0 1.6e-05 0.00037 16.0 12.0
+assemblage-12-23 71027.0 2.3e-05 0.00037 23.0 12.0
+assemblage-27-14 71027.0 1.4e-05 0.00022 14.0 27.0
+assemblage-5-6 107935.0 6e-06 0.00044 6.0 5.0
+assemblage-28-19 44350.0 1.9e-05 0.00021 19.0 28.0
+assemblage-21-17 44350.0 1.7e-05 0.00028 17.0 21.0
+assemblage-17-3 37886.0 3e-06 0.00032 3.0 17.0
+assemblage-30-24 43697.0 2.4e-05 0.00019 24.0 30.0
+assemblage-9-19 37886.0 1.9e-05 0.0004 19.0 9.0
+assemblage-41-27 43697.0 2.7e-05 8e-05 27.0 41.0
+assemblage-8-6 71027.0 6e-06 0.00041 6.0 8.0
+assemblage-49-1 44350.0 1e-06 0.0 1.0 49.0
+*Tie data
+From To Edge Weight Network End pValue pError meanSolutionDistance
+assemblage-30-24 assemblage-41-27 1 2 urn:uuid:55fd1ff3-bac3-4d41-81c6-6a44d2719e89 0.0 0.0 19.3023476342
+assemblage-41-27 assemblage-49-1 1 2 urn:uuid:55fd1ff3-bac3-4d41-81c6-6a44d2719e89 0.0 0.0 19.3023476342
+assemblage-8-6 assemblage-41-27 1 2 urn:uuid:452750dd-2c70-4329-bcd8-ad4452ac1f76 0.0 0.0 25.2584843411
+assemblage-30-24 assemblage-41-27 1 2 urn:uuid:452750dd-2c70-4329-bcd8-ad4452ac1f76 0.0 0.0 25.2584843411
+assemblage-30-24 assemblage-9-19 1 2 urn:uuid:07e079a1-05ef-4196-aded-b5dbc8ef26c7 0.0 0.0 32.7252287719
+assemblage-49-1 assemblage-9-19 1 2 urn:uuid:07e079a1-05ef-4196-aded-b5dbc8ef26c7 0.0 0.0 32.7252287719
+assemblage-41-27 assemblage-21-17 1 2 urn:uuid:4c41c355-4ae2-423f-ace0-cdec8ef98732 0.0 0.0 14.8203948321
+assemblage-28-19 assemblage-21-17 1 2 urn:uuid:4c41c355-4ae2-423f-ace0-cdec8ef98732 0.0 0.0 14.8203948321
+assemblage-30-24 assemblage-21-17 1 2 urn:uuid:5467a52a-9090-4d1f-b8ca-8017b253b955 0.0 0.0 9.34093207014
+assemblage-28-19 assemblage-21-17 1 2 urn:uuid:5467a52a-9090-4d1f-b8ca-8017b253b955 0.0 0.0 9.34093207014
+assemblage-5-6 assemblage-9-19 1 2 urn:uuid:b4e81979-6594-4ae2-8fc3-58e6a4911289 0.0 0.0 28.7324474538
+assemblage-9-19 assemblage-49-1 1 2 urn:uuid:b4e81979-6594-4ae2-8fc3-58e6a4911289 0.0 0.0 28.7324474538
+assemblage-49-1 assemblage-21-17 1 2 urn:uuid:71798735-c7d7-46b3-bb6c-1763442807e0 0.0 0.0 25.8327594161
+assemblage-5-6 assemblage-21-17 1 2 urn:uuid:71798735-c7d7-46b3-bb6c-1763442807e0 0.0 0.0 25.8327594161
+assemblage-5-6 assemblage-28-19 1 2 urn:uuid:edf848f3-c3e8-47ca-8a2f-935e1cd2d1f6 0.0 0.0 27.0391614996
+assemblage-28-19 assemblage-49-1 1 2 urn:uuid:edf848f3-c3e8-47ca-8a2f-935e1cd2d1f6 0.0 0.0 27.0391614996
+assemblage-12-23 assemblage-5-6 1 2 urn:uuid:3d1d2450-b80e-4800-a791-d80b022532d3 0.0 0.0 24.5953099562
+assemblage-30-24 assemblage-5-6 1 2 urn:uuid:3d1d2450-b80e-4800-a791-d80b022532d3 0.0 0.0 24.5953099562
+assemblage-12-16 assemblage-5-6 1 2 urn:uuid:f92ac1bd-d1ce-4f04-aa43-abd389d390db 0.0 0.0 21.5061996086
+assemblage-30-24 assemblage-5-6 1 2 urn:uuid:f92ac1bd-d1ce-4f04-aa43-abd389d390db 0.0 0.0 21.5061996086
+assemblage-12-16 assemblage-27-14 1 2 urn:uuid:aad8d073-1382-4db2-a2a1-70ff1ad2d6e6 0.0 0.0 17.1188595625
+assemblage-27-14 assemblage-41-27 1 2 urn:uuid:aad8d073-1382-4db2-a2a1-70ff1ad2d6e6 0.0 0.0 17.1188595625
+assemblage-12-16 assemblage-27-14 1 2 urn:uuid:8d14fcd3-b9e2-4dd4-a19d-5541e6680669 0.0 0.0 12.7865262297
+assemblage-27-14 assemblage-30-24 1 2 urn:uuid:8d14fcd3-b9e2-4dd4-a19d-5541e6680669 0.0 0.0 12.7865262297
+assemblage-12-16 assemblage-27-14 1 2 urn:uuid:3545bca3-92c2-4cde-b44b-ce37de87fbb3 0.0 0.0 19.2710728859
+assemblage-27-14 assemblage-5-6 1 2 urn:uuid:3545bca3-92c2-4cde-b44b-ce37de87fbb3 0.0 0.0 19.2710728859
