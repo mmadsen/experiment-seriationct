@@ -1,12 +1,13 @@
-# REPLACEME #
+# seriationct-9 #
 
 Composed of:
 
-* 15 slices in the same 10K steps, to see if having shorter durations and then sampling the assemblages changes our ability to detect structure
-* Hierarchy with 4 children per level
-* Root node which can change over time, with 0.2 prob per slice
-* Very weak links between nodes, except for strong links between lowest level (gchild) nodes
+* 5 slices in 10K steps
+* minmax model
+* moderate migration fraction (migr = 0.05 to 0.2)
+* moderate innovation rate (theta = 0.001 to 0.01
 * Low innovation rate prior distribution (theta = 0.0005 to 0.001)
 * Low migration fraction prior distribution (migr = 0.005 to 0.01)
 
+Direct contrast wtih seriationct-8
 

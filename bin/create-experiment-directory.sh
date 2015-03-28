@@ -7,9 +7,10 @@ cp ../template/seriationct-priors.json $1/
 cp ../template/README.md $1/
 cd $1/bin
 perl -pi.bak -e "s/REPLACEME/$1/g" *.sh
-perl -pi.bak -e "s/REPLACEME/$1/g" *.md
 rm *.bak
 cd ..
+perl -pi.bak -e "s/REPLACEME/$1/g" README.md
+rm *.bak
 
 
 mkdir exported-data
