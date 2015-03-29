@@ -1,8 +1,8 @@
-strict graph "seriationct-10-3a58e372-d592-11e4-aba4-b8f6b1154c9b-0-minmax" {
+strict graph "seriationct-10-3a58e372-d592-11e4-aba4-b8f6b1154c9b-0-minmax-other" {
 labelloc=b;
 ratio=auto;
 pad="1.0";
-label="seriationct-10-3a58e372-d592-11e4-aba4-b8f6b1154c9b-0-minmax";
+label="seriationct-10-3a58e372-d592-11e4-aba4-b8f6b1154c9b-0-minmax-other";
 node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
 0 [xCoordinate="11.0", appears_in_slice=2, yCoordinate="31.0", colorscheme=pubu4, short_label="31-11", label="31-11", fillcolor=3, id=0, size="454.50201905"];
 1 [xCoordinate="9.0", appears_in_slice=2, yCoordinate="28.0", colorscheme=pubu4, short_label="28-9", label="28-9", fillcolor=3, id=1, size="454.50201905"];
