@@ -1,9 +1,9 @@
-strict graph "seriationct-5-0d59213c-d288-11e4-af8a-b8f6b1154c9b-0-minmax" {
+strict graph "seriationct-5-0d59213c-d288-11e4-af8a-b8f6b1154c9b-0-minmax-hierarchy" {
 labelloc=b;
 ratio=auto;
 pad="1.0";
-label="seriationct-5-0d59213c-d288-11e4-af8a-b8f6b1154c9b-0-minmax";
-node [width=1, style=filled, fixedsize=true, height=1, shape=circle, label=""];
+label="seriationct-5-0d59213c-d288-11e4-af8a-b8f6b1154c9b-0-minmax-hierarchy";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
 0 [xCoordinate="1.0", appears_in_slice=1, yCoordinate="48.0", level=grandchild, colorscheme=rdylgn11, child_of="assemblage-2-48", short_label="48-1", label="48-1", shape=circle, fillcolor=9, size="27.7821201625", parent_node="assemblage-2-48", id=0, penwidth="1.0"];
 1 [xCoordinate="57.0", appears_in_slice=3, yCoordinate="37.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="37-57", label="37-57", shape=diamond, fillcolor=8, size="961.952482427", parent_node="assemblage-13-15", id=1, penwidth="3.0"];
 2 [xCoordinate="48.0", appears_in_slice=1, yCoordinate="19.0", level=grandchild, colorscheme=rdylgn11, child_of="assemblage-51-43", short_label="19-48", label="19-48", shape=circle, fillcolor=7, size="27.7821201625", parent_node="assemblage-51-43", id=2, penwidth="1.0"];

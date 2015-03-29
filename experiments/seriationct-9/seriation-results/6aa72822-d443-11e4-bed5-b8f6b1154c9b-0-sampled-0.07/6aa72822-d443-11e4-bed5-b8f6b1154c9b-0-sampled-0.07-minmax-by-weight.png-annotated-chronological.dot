@@ -1,9 +1,9 @@
-strict graph "seriationct-9-6aa72822-d443-11e4-bed5-b8f6b1154c9b-0-minmax" {
+strict graph "seriationct-9-6aa72822-d443-11e4-bed5-b8f6b1154c9b-0-minmax-other" {
 labelloc=b;
 ratio=auto;
 pad="1.0";
-label="seriationct-9-6aa72822-d443-11e4-bed5-b8f6b1154c9b-0-minmax";
-node [width="0.3", shape=circle, height="0.3", style=filled, label=""];
+label="seriationct-9-6aa72822-d443-11e4-bed5-b8f6b1154c9b-0-minmax-other";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
 0 [xCoordinate="26.0", appears_in_slice=2, yCoordinate="18.0", colorscheme=pubu4, short_label="18-26", label="18-26", fillcolor=3, id=0, size="350.993660685"];
 1 [xCoordinate="7.0", appears_in_slice=1, yCoordinate="20.0", colorscheme=pubu4, short_label="20-7", label="20-7", fillcolor=4, id=10, size="986.818531031"];
 2 [xCoordinate="11.0", appears_in_slice=1, yCoordinate="12.0", colorscheme=pubu4, short_label="12-11", label="12-11", fillcolor=4, id=2, size="635.824870346"];

@@ -1,8 +1,9 @@
-strict graph G {
+strict graph "seriationct-7-63a30212-d34e-11e4-b4d7-b8f6b1154c9b-0-minmax-hierarchy" {
 labelloc=b;
 ratio=auto;
 pad="1.0";
-node [width="0.3", shape=circle, height="0.3", style=filled, label=""];
+label="seriationct-7-63a30212-d34e-11e4-b4d7-b8f6b1154c9b-0-minmax-hierarchy";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
 0 [xCoordinate="60.0", appears_in_slice=12, yCoordinate="35.0", level=child, colorscheme=rdylgn11, child_of="assemblage-10-67", short_label="35-60", label="35-60", shape=diamond, fillcolor=9, size="767.140256851", parent_node="assemblage-10-67", id=0, penwidth="4.0"];
 1 [xCoordinate="49.0", appears_in_slice=15, yCoordinate="31.0", level=child, colorscheme=rdylgn11, child_of="assemblage-34-37", short_label="31-49", label="31-49", shape=diamond, fillcolor=8, size="373.607760426", parent_node="assemblage-34-37", id=1, penwidth="5.0"];
 2 [xCoordinate="68.0", appears_in_slice=15, yCoordinate="34.0", level=grandchild, colorscheme=rdylgn11, child_of="assemblage-23-55", short_label="34-68", label="34-68", shape=circle, fillcolor=7, size="373.607760426", parent_node="assemblage-28-29", id=2, penwidth="5.0"];
