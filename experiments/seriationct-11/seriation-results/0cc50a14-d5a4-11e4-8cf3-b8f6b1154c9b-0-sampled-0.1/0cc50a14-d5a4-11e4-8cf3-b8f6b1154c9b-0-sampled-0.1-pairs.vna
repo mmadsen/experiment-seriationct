@@ -1,0 +1,59 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-9-7 37186.0 7e-06 0.0004 7.0 9.0
+assemblage-26-25 36271.0 2.5e-05 0.00023 25.0 26.0
+assemblage-30-4 36271.0 4e-06 0.00019 4.0 30.0
+assemblage-30-22 36271.0 2.2e-05 0.00019 22.0 30.0
+assemblage-46-16 42733.0 1.6e-05 3e-05 16.0 46.0
+assemblage-41-26 37186.0 2.6e-05 8e-05 26.0 41.0
+assemblage-31-26 45749.0 2.6e-05 0.00018 26.0 31.0
+assemblage-7-1 45749.0 1e-06 0.00042 1.0 7.0
+assemblage-7-3 45749.0 3e-06 0.00042 3.0 7.0
+assemblage-47-26 42733.0 2.6e-05 2e-05 26.0 47.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-9-7 37186.0 7e-06 0.0004 7.0 9.0
+assemblage-26-25 36271.0 2.5e-05 0.00023 25.0 26.0
+assemblage-30-4 36271.0 4e-06 0.00019 4.0 30.0
+assemblage-30-22 36271.0 2.2e-05 0.00019 22.0 30.0
+assemblage-46-16 42733.0 1.6e-05 3e-05 16.0 46.0
+assemblage-41-26 37186.0 2.6e-05 8e-05 26.0 41.0
+assemblage-31-26 45749.0 2.6e-05 0.00018 26.0 31.0
+assemblage-7-1 45749.0 1e-06 0.00042 1.0 7.0
+assemblage-7-3 45749.0 3e-06 0.00042 3.0 7.0
+assemblage-47-26 42733.0 2.6e-05 2e-05 26.0 47.0
+*Tie data
+From To Edge Count
+assemblage-31-26	assemblage-46-16	 1 1
+assemblage-7-1	assemblage-46-16	 1 1
+assemblage-26-25	assemblage-30-4	 1 1
+assemblage-31-26	assemblage-47-26	 1 1
+assemblage-9-7	assemblage-31-26	 1 1
+assemblage-30-4	assemblage-7-3	 1 1
+assemblage-46-16	assemblage-47-26	 1 1
+assemblage-9-7	assemblage-46-16	 1 1
+assemblage-30-22	assemblage-7-3	 1 1
+assemblage-9-7	assemblage-7-1	 1 1
+assemblage-46-16	assemblage-30-22	 1 1
+assemblage-26-25	assemblage-46-16	 1 1
+assemblage-7-3	assemblage-47-26	 1 1
+assemblage-31-26	assemblage-7-3	 1 1
+assemblage-46-16	assemblage-41-26	 1 1
+assemblage-7-3	assemblage-31-26	 1 1
+assemblage-41-26	assemblage-31-26	 1 1
+assemblage-46-16	assemblage-31-26	 1 1
+assemblage-7-3	assemblage-46-16	 1 1
+assemblage-7-1	assemblage-30-22	 1 1
+assemblage-7-1	assemblage-31-26	 1 1
+assemblage-7-1	assemblage-7-3	 1 1
+assemblage-46-16	assemblage-7-3	 1 1
+assemblage-7-1	assemblage-41-26	 1 1
+assemblage-41-26	assemblage-46-16	 1 1
+assemblage-30-4	assemblage-30-22	 1 1
+assemblage-9-7	assemblage-26-25	 1 1
+assemblage-26-25	assemblage-47-26	 1 1
+assemblage-46-16	assemblage-7-1	 1 1
+assemblage-26-25	assemblage-30-22	 1 1
+assemblage-7-1	assemblage-30-4	 1 1
+assemblage-46-16	assemblage-30-4	 1 1
+assemblage-9-7	assemblage-30-4	 1 1
