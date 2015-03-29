@@ -1,0 +1,47 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-31-11 29489.0 1.1e-05 0.00018 11.0 31.0
+assemblage-28-9 29489.0 9e-06 0.00021 9.0 28.0
+assemblage-40-2 39487.0 2e-06 9e-05 2.0 40.0
+assemblage-9-11 46151.0 1.1e-05 0.0004 11.0 9.0
+assemblage-21-9 39487.0 9e-06 0.00028 9.0 21.0
+assemblage-23-4 31004.0 4e-06 0.00026 4.0 23.0
+assemblage-30-5 23751.0 5e-06 0.00019 5.0 30.0
+assemblage-38-24 31004.0 2.4e-05 0.00011 24.0 38.0
+assemblage-37-24 23751.0 2.4e-05 0.00012 24.0 37.0
+assemblage-41-28 39487.0 2.8e-05 8e-05 28.0 41.0
+assemblage-18-10 23751.0 1e-05 0.00031 10.0 18.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-31-11 29489.0 1.1e-05 0.00018 11.0 31.0
+assemblage-28-9 29489.0 9e-06 0.00021 9.0 28.0
+assemblage-40-2 39487.0 2e-06 9e-05 2.0 40.0
+assemblage-9-11 46151.0 1.1e-05 0.0004 11.0 9.0
+assemblage-21-9 39487.0 9e-06 0.00028 9.0 21.0
+assemblage-23-4 31004.0 4e-06 0.00026 4.0 23.0
+assemblage-30-5 23751.0 5e-06 0.00019 5.0 30.0
+assemblage-38-24 31004.0 2.4e-05 0.00011 24.0 38.0
+assemblage-37-24 23751.0 2.4e-05 0.00012 24.0 37.0
+assemblage-41-28 39487.0 2.8e-05 8e-05 28.0 41.0
+assemblage-18-10 23751.0 1e-05 0.00031 10.0 18.0
+*Tie data
+From To Edge Count
+assemblage-41-28	assemblage-40-2	 1 1
+assemblage-40-2	assemblage-23-4	 1 1
+assemblage-18-10	assemblage-21-9	 1 1
+assemblage-18-10	assemblage-23-4	 1 1
+assemblage-41-28	assemblage-18-10	 1 1
+assemblage-23-4	assemblage-9-11	 1 1
+assemblage-23-4	assemblage-30-5	 1 1
+assemblage-40-2	assemblage-21-9	 1 1
+assemblage-31-11	assemblage-23-4	 1 1
+assemblage-30-5	assemblage-21-9	 1 1
+assemblage-23-4	assemblage-21-9	 1 1
+assemblage-38-24	assemblage-21-9	 1 1
+assemblage-18-10	assemblage-38-24	 1 1
+assemblage-38-24	assemblage-18-10	 1 1
+assemblage-37-24	assemblage-38-24	 1 1
+assemblage-40-2	assemblage-38-24	 1 1
+assemblage-38-24	assemblage-9-11	 1 1
+assemblage-9-11	assemblage-21-9	 1 1
+assemblage-37-24	assemblage-21-9	 1 1

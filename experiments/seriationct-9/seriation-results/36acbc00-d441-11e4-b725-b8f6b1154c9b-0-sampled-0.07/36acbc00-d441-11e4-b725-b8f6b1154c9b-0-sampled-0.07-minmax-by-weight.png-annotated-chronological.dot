@@ -1,0 +1,23 @@
+strict graph "seriationct-9-36acbc00-d441-11e4-b725-b8f6b1154c9b-0-minmax" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-9-36acbc00-d441-11e4-b725-b8f6b1154c9b-0-minmax";
+node [width="0.3", shape=circle, height="0.3", style=filled, label=""];
+0 [xCoordinate="5.0", appears_in_slice=3, yCoordinate="22.0", colorscheme=pubu4, short_label="22-5", label="22-5", fillcolor=2, id=0, size="449.052569039"];
+1 [xCoordinate="25.0", appears_in_slice=3, yCoordinate="27.0", colorscheme=pubu4, short_label="27-25", label="27-25", fillcolor=2, id=2, size="789.093000771"];
+2 [xCoordinate="21.0", appears_in_slice=1, yCoordinate="19.0", colorscheme=pubu4, short_label="19-21", label="19-21", fillcolor=4, id=3, size="494.12605043"];
+3 [xCoordinate="22.0", appears_in_slice=4, yCoordinate="15.0", colorscheme=pubu4, short_label="15-22", label="15-22", fillcolor=1, id=4, size="340.040431732"];
+4 [xCoordinate="1.0", appears_in_slice=1, yCoordinate="16.0", colorscheme=pubu4, short_label="16-1", label="16-1", fillcolor=4, id=5, size="494.12605043"];
+5 [xCoordinate="23.0", appears_in_slice=1, yCoordinate="21.0", colorscheme=pubu4, short_label="21-23", label="21-23", fillcolor=4, id=6, size="494.12605043"];
+6 [xCoordinate="19.0", appears_in_slice=1, yCoordinate="43.0", colorscheme=pubu4, short_label="43-19", label="43-19", fillcolor=4, id=7, size="494.12605043"];
+7 [xCoordinate="20.0", appears_in_slice=1, yCoordinate="30.0", colorscheme=pubu4, short_label="30-20", label="30-20", fillcolor=4, id=8, size="310.914898659"];
+8 [xCoordinate="8.0", appears_in_slice=1, yCoordinate="17.0", colorscheme=pubu4, short_label="17-8", label="17-8", fillcolor=4, id=11, size="494.12605043"];
+9 [xCoordinate="16.0", appears_in_slice=4, yCoordinate="2.0", colorscheme=pubu4, short_label="2-16", label="2-16", fillcolor=1, id=9, size="340.040431732"];
+10 [xCoordinate="13.0", appears_in_slice=2, yCoordinate="38.0", colorscheme=pubu4, short_label="38-13", label="38-13", fillcolor=3, id=10, size="255.567707574"];
+11 [xCoordinate="26.0", appears_in_slice=2, yCoordinate="36.0", colorscheme=pubu4, short_label="36-26", label="36-26", fillcolor=3, id=1, size="1044.66070835"];
+0 -- 4  [inverseweight="2.46747892279", weight="0.405271952179"];
+3 -- 4  [inverseweight="2.90083651378", weight="0.344728148329"];
+4 -- 5  [inverseweight="4.99162680978", weight="0.200335489432"];
+4 -- 6  [inverseweight="9.25504997294", weight="0.108049119445"];
+}

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sim-seriationct-networkmodel.py  --dbhost localhost --dbport 27017 --experiment seriationct-3 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00224663094091 --simlength 6000 --debug 0 --seed 1867828399 --reps 1 --samplefraction 0.5 --migrationfraction 0.0872511373449 --devel 0 --networkmodel networks/seriationct-3-network-gml.zip
+sim-seriationct-networkmodel.py  --dbhost localhost --dbport 27017 --experiment seriationct-3 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00870055096899 --simlength 6000 --debug 0 --seed 1062720405 --reps 1 --samplefraction 0.5 --migrationfraction 0.0789038536718 --devel 0 --networkmodel networks/seriationct-3-network-gml.zip
+sim-seriationct-networkmodel.py  --dbhost localhost --dbport 27017 --experiment seriationct-3 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00500245065949 --simlength 6000 --debug 0 --seed 1550196355 --reps 1 --samplefraction 0.5 --migrationfraction 0.0688231297844 --devel 0 --networkmodel networks/seriationct-3-network-gml.zip
+sim-seriationct-networkmodel.py  --dbhost localhost --dbport 27017 --experiment seriationct-3 --popsize 250 --maxinittraits 5 --numloci 3 --innovrate 0.00835195398723 --simlength 6000 --debug 0 --seed 1090000354 --reps 1 --samplefraction 0.5 --migrationfraction 0.158248424173 --devel 0 --networkmodel networks/seriationct-3-network-gml.zip

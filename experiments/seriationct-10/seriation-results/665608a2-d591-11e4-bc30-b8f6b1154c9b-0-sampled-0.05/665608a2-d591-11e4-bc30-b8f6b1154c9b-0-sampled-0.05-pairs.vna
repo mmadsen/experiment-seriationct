@@ -1,0 +1,59 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-18-25 39287.0 2.5e-05 0.00031 25.0 18.0
+assemblage-27-17 23253.0 1.7e-05 0.00022 17.0 27.0
+assemblage-1-24 46782.0 2.4e-05 0.00048 24.0 1.0
+assemblage-2-16 30776.0 1.6e-05 0.00047 16.0 2.0
+assemblage-42-12 32073.0 1.2e-05 7e-05 12.0 42.0
+assemblage-12-6 39287.0 6e-06 0.00037 6.0 12.0
+assemblage-6-8 39287.0 8e-06 0.00043 8.0 6.0
+assemblage-44-14 46782.0 1.4e-05 5e-05 14.0 44.0
+assemblage-6-2 23253.0 2e-06 0.00043 2.0 6.0
+assemblage-37-24 23253.0 2.4e-05 0.00012 24.0 37.0
+assemblage-38-29 30776.0 2.9e-05 0.00011 29.0 38.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-18-25 39287.0 2.5e-05 0.00031 25.0 18.0
+assemblage-27-17 23253.0 1.7e-05 0.00022 17.0 27.0
+assemblage-1-24 46782.0 2.4e-05 0.00048 24.0 1.0
+assemblage-2-16 30776.0 1.6e-05 0.00047 16.0 2.0
+assemblage-42-12 32073.0 1.2e-05 7e-05 12.0 42.0
+assemblage-12-6 39287.0 6e-06 0.00037 6.0 12.0
+assemblage-6-8 39287.0 8e-06 0.00043 8.0 6.0
+assemblage-44-14 46782.0 1.4e-05 5e-05 14.0 44.0
+assemblage-6-2 23253.0 2e-06 0.00043 2.0 6.0
+assemblage-37-24 23253.0 2.4e-05 0.00012 24.0 37.0
+assemblage-38-29 30776.0 2.9e-05 0.00011 29.0 38.0
+*Tie data
+From To Edge Count
+assemblage-6-8	assemblage-1-24	 1 1
+assemblage-27-17	assemblage-12-6	 1 1
+assemblage-42-12	assemblage-6-2	 1 1
+assemblage-6-8	assemblage-12-6	 1 1
+assemblage-2-16	assemblage-37-24	 1 1
+assemblage-18-25	assemblage-42-12	 1 1
+assemblage-6-8	assemblage-38-29	 1 1
+assemblage-12-6	assemblage-38-29	 1 1
+assemblage-6-8	assemblage-37-24	 1 1
+assemblage-2-16	assemblage-42-12	 1 1
+assemblage-2-16	assemblage-44-14	 1 1
+assemblage-18-25	assemblage-12-6	 1 1
+assemblage-2-16	assemblage-38-29	 1 1
+assemblage-12-6	assemblage-6-2	 1 1
+assemblage-6-8	assemblage-44-14	 1 1
+assemblage-44-14	assemblage-37-24	 1 1
+assemblage-2-16	assemblage-1-24	 1 1
+assemblage-1-24	assemblage-44-14	 1 1
+assemblage-2-16	assemblage-6-2	 1 1
+assemblage-6-8	assemblage-42-12	 1 1
+assemblage-6-8	assemblage-6-2	 1 1
+assemblage-12-6	assemblage-37-24	 1 1
+assemblage-6-8	assemblage-27-17	 1 1
+assemblage-2-16	assemblage-6-8	 1 1
+assemblage-12-6	assemblage-44-14	 1 1
+assemblage-18-25	assemblage-2-16	 1 1
+assemblage-42-12	assemblage-1-24	 1 1
+assemblage-2-16	assemblage-27-17	 1 1
+assemblage-1-24	assemblage-12-6	 1 1
+assemblage-42-12	assemblage-12-6	 1 1
+assemblage-2-16	assemblage-12-6	 1 1

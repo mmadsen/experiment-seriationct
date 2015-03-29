@@ -1,0 +1,26 @@
+strict graph "seriationct-5-1f461c6a-d288-11e4-b64d-b8f6b1154c9b-0-minmax" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-5-1f461c6a-d288-11e4-b64d-b8f6b1154c9b-0-minmax";
+node [width=1, style=filled, fixedsize=true, height=1, shape=circle, label=""];
+0 [xCoordinate="43.0", appears_in_slice=1, yCoordinate="51.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="51-43", label="51-43", shape=diamond, fillcolor=9, size="16.6857725131", parent_node="assemblage-13-15", id=0, penwidth="1.0"];
+1 [xCoordinate="48.0", appears_in_slice=1, yCoordinate="19.0", level=grandchild, colorscheme=rdylgn11, child_of="assemblage-51-43", short_label="19-48", label="19-48", shape=circle, fillcolor=9, size="16.6857725131", parent_node="assemblage-51-43", id=1, penwidth="1.0"];
+2 [xCoordinate="74.0", appears_in_slice=3, yCoordinate="3.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="3-74", label="3-74", shape=diamond, fillcolor=8, size="1001.10389335", parent_node="assemblage-13-15", id=2, penwidth="3.0"];
+3 [xCoordinate="72.0", appears_in_slice=5, yCoordinate="36.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="36-72", label="36-72", shape=diamond, fillcolor=7, size="982.521688674", parent_node="assemblage-13-15", id=3, penwidth="5.0"];
+4 [xCoordinate="35.0", appears_in_slice=2, yCoordinate="46.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="46-35", label="46-35", shape=diamond, fillcolor=6, size="942.399411257", parent_node="assemblage-13-15", id=6, penwidth="2.0"];
+5 [xCoordinate="64.0", appears_in_slice=4, yCoordinate="57.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="57-64", label="57-64", shape=diamond, fillcolor=5, size="1008.02445548", parent_node="assemblage-13-15", id=5, penwidth="4.0"];
+6 [xCoordinate="21.0", appears_in_slice=1, yCoordinate="47.0", level=grandchild, colorscheme=rdylgn11, child_of="assemblage-28-69", short_label="47-21", label="47-21", shape=circle, fillcolor=4, size="16.6857725131", parent_node="assemblage-28-69", id=4, penwidth="1.0"];
+7 [xCoordinate="48.0", appears_in_slice=5, yCoordinate="29.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="29-48", label="29-48", shape=diamond, fillcolor=3, size="982.521688674", parent_node="assemblage-13-15", id=9, penwidth="5.0"];
+8 [xCoordinate="29.0", appears_in_slice=1, yCoordinate="67.0", level=child, colorscheme=rdylgn11, child_of=root, short_label="67-29", label="67-29", shape=diamond, fillcolor=2, size="16.6857725131", parent_node="assemblage-13-15", id=8, penwidth="1.0"];
+9 [xCoordinate="2.0", appears_in_slice=1, yCoordinate="7.0", level=grandchild, colorscheme=rdylgn11, child_of="assemblage-67-29", short_label="7-2", label="7-2", shape=circle, fillcolor=2, size="16.6857725131", parent_node="assemblage-67-29", id=7, penwidth="1.0"];
+0 -- 8  [inverseweight="1.40658277765", weight="0.710942872251"];
+0 -- 4  [inverseweight="1.93398588155", weight="0.517066856352"];
+1 -- 4  [inverseweight="1.04212168782", weight="0.959580835604"];
+2 -- 4  [inverseweight="9.49840501055", weight="0.105280833876"];
+2 -- 5  [inverseweight="5.35127503678", weight="0.186871351804"];
+3 -- 5  [inverseweight="9.68601602576", weight="0.103241621461"];
+4 -- 6  [inverseweight="0.854706533659", weight="1.16999222613"];
+5 -- 7  [inverseweight="8.89074428859", weight="0.112476522498"];
+8 -- 9  [inverseweight="5.60881946101", weight="0.178290637977"];
+}
