@@ -1,0 +1,38 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-22-5 67268.0 5e-06 0.00027 5.0 22.0
+assemblage-27-25 118206.0 2.5e-05 0.00022 25.0 27.0
+assemblage-19-21 74020.0 2.1e-05 0.0003 21.0 19.0
+assemblage-15-22 50938.0 2.2e-05 0.00034 22.0 15.0
+assemblage-16-1 74020.0 1e-06 0.00033 1.0 16.0
+assemblage-21-23 74020.0 2.3e-05 0.00028 23.0 21.0
+assemblage-43-19 74020.0 1.9e-05 6e-05 19.0 43.0
+assemblage-30-20 46575.0 2e-05 0.00019 20.0 30.0
+assemblage-17-8 74020.0 8e-06 0.00032 8.0 17.0
+assemblage-2-16 50938.0 1.6e-05 0.00047 16.0 2.0
+assemblage-38-13 38284.0 1.3e-05 0.00011 13.0 38.0
+assemblage-36-26 156490.0 2.6e-05 0.00013 26.0 36.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-22-5 67268.0 5e-06 0.00027 5.0 22.0
+assemblage-27-25 118206.0 2.5e-05 0.00022 25.0 27.0
+assemblage-19-21 74020.0 2.1e-05 0.0003 21.0 19.0
+assemblage-15-22 50938.0 2.2e-05 0.00034 22.0 15.0
+assemblage-16-1 74020.0 1e-06 0.00033 1.0 16.0
+assemblage-21-23 74020.0 2.3e-05 0.00028 23.0 21.0
+assemblage-43-19 74020.0 1.9e-05 6e-05 19.0 43.0
+assemblage-30-20 46575.0 2e-05 0.00019 20.0 30.0
+assemblage-17-8 74020.0 8e-06 0.00032 8.0 17.0
+assemblage-2-16 50938.0 1.6e-05 0.00047 16.0 2.0
+assemblage-38-13 38284.0 1.3e-05 0.00011 13.0 38.0
+assemblage-36-26 156490.0 2.6e-05 0.00013 26.0 36.0
+*Tie data
+From To Edge Weight Network End pValue pError meanSolutionDistance
+assemblage-15-22 assemblage-16-1 1 2 urn:uuid:0e9c532f-1b32-4c46-98f0-4152678cae6d 0.0 0.0 26.7368787604
+assemblage-16-1 assemblage-43-19 1 2 urn:uuid:0e9c532f-1b32-4c46-98f0-4152678cae6d 0.0 0.0 26.7368787604
+assemblage-15-22 assemblage-16-1 1 2 urn:uuid:1881c652-e287-40f8-82db-1577e6f09304 0.0 0.0 21.7924121935
+assemblage-16-1 assemblage-21-23 1 2 urn:uuid:1881c652-e287-40f8-82db-1577e6f09304 0.0 0.0 21.7924121935
+assemblage-22-5 assemblage-16-1 1 2 urn:uuid:db7477aa-51c8-4886-af9d-3ec20402b922 0.0 0.0 19.8305320151
+assemblage-16-1 assemblage-43-19 1 2 urn:uuid:db7477aa-51c8-4886-af9d-3ec20402b922 0.0 0.0 19.8305320151
+assemblage-22-5 assemblage-16-1 1 2 urn:uuid:bfbd4c07-8558-4a69-92bd-27878b4b0fed 0.0 0.0 14.8860654481
+assemblage-16-1 assemblage-21-23 1 2 urn:uuid:bfbd4c07-8558-4a69-92bd-27878b4b0fed 0.0 0.0 14.8860654481
