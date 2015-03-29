@@ -1,5 +1,6 @@
 graph [
   is_directed 0
+  name "()"
   node [
     id 0
     label "assemblage-51-43"
@@ -9,8 +10,8 @@ graph [
     yCoordinate 51.0
     name "assemblage-51-43"
     level "child"
-    size 16.6857725131
     parent_node "assemblage-13-15"
+    size 16.6857725131
   ]
   node [
     id 1
@@ -21,8 +22,8 @@ graph [
     yCoordinate 19.0
     name "assemblage-19-48"
     level "grandchild"
-    size 16.6857725131
     parent_node "assemblage-51-43"
+    size 16.6857725131
   ]
   node [
     id 2
@@ -33,8 +34,8 @@ graph [
     yCoordinate 3.0
     name "assemblage-3-74"
     level "child"
-    size 1001.10389335
     parent_node "assemblage-13-15"
+    size 1001.10389335
   ]
   node [
     id 3
@@ -45,8 +46,8 @@ graph [
     yCoordinate 36.0
     name "assemblage-36-72"
     level "child"
-    size 982.521688674
     parent_node "assemblage-13-15"
+    size 982.521688674
   ]
   node [
     id 4
@@ -57,8 +58,8 @@ graph [
     yCoordinate 47.0
     name "assemblage-47-21"
     level "grandchild"
-    size 16.6857725131
     parent_node "assemblage-28-69"
+    size 16.6857725131
   ]
   node [
     id 5
@@ -69,8 +70,8 @@ graph [
     yCoordinate 57.0
     name "assemblage-57-64"
     level "child"
-    size 1008.02445548
     parent_node "assemblage-13-15"
+    size 1008.02445548
   ]
   node [
     id 6
@@ -81,8 +82,8 @@ graph [
     yCoordinate 46.0
     name "assemblage-46-35"
     level "child"
-    size 942.399411257
     parent_node "assemblage-13-15"
+    size 942.399411257
   ]
   node [
     id 7
@@ -93,8 +94,8 @@ graph [
     yCoordinate 7.0
     name "assemblage-7-2"
     level "grandchild"
-    size 16.6857725131
     parent_node "assemblage-67-29"
+    size 16.6857725131
   ]
   node [
     id 8
@@ -105,8 +106,8 @@ graph [
     yCoordinate 67.0
     name "assemblage-67-29"
     level "child"
-    size 16.6857725131
     parent_node "assemblage-13-15"
+    size 16.6857725131
   ]
   node [
     id 9
@@ -117,20 +118,20 @@ graph [
     yCoordinate 29.0
     name "assemblage-29-48"
     level "child"
-    size 982.521688674
     parent_node "assemblage-13-15"
-  ]
-  edge [
-    source 0
-    target 8
-    inverseweight 1.40658277765
-    weight 0.710942872251
+    size 982.521688674
   ]
   edge [
     source 0
     target 6
     inverseweight 1.93398588155
     weight 0.517066856352
+  ]
+  edge [
+    source 0
+    target 8
+    inverseweight 1.40658277765
+    weight 0.710942872251
   ]
   edge [
     source 1
@@ -140,15 +141,15 @@ graph [
   ]
   edge [
     source 2
-    target 5
-    inverseweight 5.35127503678
-    weight 0.186871351804
-  ]
-  edge [
-    source 2
     target 6
     inverseweight 9.49840501055
     weight 0.105280833876
+  ]
+  edge [
+    source 2
+    target 5
+    inverseweight 5.35127503678
+    weight 0.186871351804
   ]
   edge [
     source 3

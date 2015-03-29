@@ -1,7 +1,8 @@
-strict graph G {
+strict graph "seriationct-9-aed67256-d442-11e4-b40e-b8f6b1154c9b-0-minmax" {
 labelloc=b;
 ratio=auto;
 pad="1.0";
+label="seriationct-9-aed67256-d442-11e4-b40e-b8f6b1154c9b-0-minmax";
 node [width="0.3", shape=circle, height="0.3", style=filled, label=""];
 0 [xCoordinate="1.0", appears_in_slice=1, yCoordinate="33.0", colorscheme=pubu4, short_label="33-1", label="33-1", fillcolor=4, id=0, size="502.866215406"];
 1 [xCoordinate="15.0", appears_in_slice=2, yCoordinate="27.0", colorscheme=pubu4, short_label="27-15", label="27-15", fillcolor=3, id=1, size="275.135478293"];

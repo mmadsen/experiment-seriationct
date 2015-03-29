@@ -1,20 +1,21 @@
-strict graph G {
+strict graph "seriationct-9-f0531a00-d441-11e4-8c89-b8f6b1154c9b-0-minmax" {
 labelloc=b;
 ratio=auto;
 pad="1.0";
+label="seriationct-9-f0531a00-d441-11e4-8c89-b8f6b1154c9b-0-minmax";
 node [width="0.3", shape=circle, height="0.3", style=filled, label=""];
-0 [xCoordinate="23.0", appears_in_slice=1, yCoordinate="12.0", colorscheme=x11, short_label="12-23", label="12-23", fillcolor=CornflowerBlue, id=1, size="619.188415989"];
-1 [xCoordinate="16.0", appears_in_slice=1, yCoordinate="12.0", colorscheme=x11, short_label="12-16", label="12-16", fillcolor=CornflowerBlue, id=0, size="619.188415989"];
-2 [xCoordinate="14.0", appears_in_slice=1, yCoordinate="27.0", colorscheme=x11, short_label="27-14", label="27-14", fillcolor=CornflowerBlue, id=2, size="619.188415989"];
-3 [xCoordinate="1.0", appears_in_slice=1, yCoordinate="49.0", colorscheme=x11, short_label="49-1", label="49-1", fillcolor=CornflowerBlue, id=11, size="386.627708464"];
-4 [xCoordinate="3.0", appears_in_slice=2, yCoordinate="17.0", colorscheme=x11, short_label="17-3", label="17-3", fillcolor=LightSteelBlue, id=6, size="330.276828926"];
-5 [xCoordinate="17.0", appears_in_slice=1, yCoordinate="21.0", colorscheme=x11, short_label="21-17", label="21-17", fillcolor=CornflowerBlue, id=5, size="386.627708464"];
-6 [xCoordinate="24.0", appears_in_slice=4, yCoordinate="30.0", colorscheme=x11, short_label="30-24", label="30-24", fillcolor=PaleTurquoise, id=7, size="380.935084031"];
-7 [xCoordinate="19.0", appears_in_slice=2, yCoordinate="9.0", colorscheme=x11, short_label="9-19", label="9-19", fillcolor=LightSteelBlue, id=8, size="330.276828926"];
-8 [xCoordinate="27.0", appears_in_slice=4, yCoordinate="41.0", colorscheme=x11, short_label="41-27", label="41-27", fillcolor=PaleTurquoise, id=9, size="380.935084031"];
-9 [xCoordinate="19.0", appears_in_slice=1, yCoordinate="28.0", colorscheme=x11, short_label="28-19", label="28-19", fillcolor=CornflowerBlue, id=4, size="386.627708464"];
-10 [xCoordinate="6.0", appears_in_slice=1, yCoordinate="8.0", colorscheme=x11, short_label="8-6", label="8-6", fillcolor=CornflowerBlue, id=10, size="619.188415989"];
-11 [xCoordinate="6.0", appears_in_slice=3, yCoordinate="5.0", colorscheme=x11, short_label="5-6", label="5-6", fillcolor=SkyBlue, id=3, size="940.939384737"];
+0 [xCoordinate="23.0", appears_in_slice=1, yCoordinate="12.0", colorscheme=pubu4, short_label="12-23", label="12-23", fillcolor=4, id=1, size="619.188415989"];
+1 [xCoordinate="16.0", appears_in_slice=1, yCoordinate="12.0", colorscheme=pubu4, short_label="12-16", label="12-16", fillcolor=4, id=0, size="619.188415989"];
+2 [xCoordinate="14.0", appears_in_slice=1, yCoordinate="27.0", colorscheme=pubu4, short_label="27-14", label="27-14", fillcolor=4, id=2, size="619.188415989"];
+3 [xCoordinate="1.0", appears_in_slice=1, yCoordinate="49.0", colorscheme=pubu4, short_label="49-1", label="49-1", fillcolor=4, id=11, size="386.627708464"];
+4 [xCoordinate="3.0", appears_in_slice=2, yCoordinate="17.0", colorscheme=pubu4, short_label="17-3", label="17-3", fillcolor=3, id=6, size="330.276828926"];
+5 [xCoordinate="17.0", appears_in_slice=1, yCoordinate="21.0", colorscheme=pubu4, short_label="21-17", label="21-17", fillcolor=4, id=5, size="386.627708464"];
+6 [xCoordinate="24.0", appears_in_slice=4, yCoordinate="30.0", colorscheme=pubu4, short_label="30-24", label="30-24", fillcolor=1, id=7, size="380.935084031"];
+7 [xCoordinate="19.0", appears_in_slice=2, yCoordinate="9.0", colorscheme=pubu4, short_label="9-19", label="9-19", fillcolor=3, id=8, size="330.276828926"];
+8 [xCoordinate="27.0", appears_in_slice=4, yCoordinate="41.0", colorscheme=pubu4, short_label="41-27", label="41-27", fillcolor=1, id=9, size="380.935084031"];
+9 [xCoordinate="19.0", appears_in_slice=1, yCoordinate="28.0", colorscheme=pubu4, short_label="28-19", label="28-19", fillcolor=4, id=4, size="386.627708464"];
+10 [xCoordinate="6.0", appears_in_slice=1, yCoordinate="8.0", colorscheme=pubu4, short_label="8-6", label="8-6", fillcolor=4, id=10, size="619.188415989"];
+11 [xCoordinate="6.0", appears_in_slice=3, yCoordinate="5.0", colorscheme=pubu4, short_label="5-6", label="5-6", fillcolor=2, id=3, size="940.939384737"];
 0 -- 11  [inverseweight="1.90557875879", weight="0.524774951121"];
 1 -- 2  [inverseweight="7.58173727656", weight="0.131895891868"];
 2 -- 8  [inverseweight="2.39554729972", weight="0.417441141787"];

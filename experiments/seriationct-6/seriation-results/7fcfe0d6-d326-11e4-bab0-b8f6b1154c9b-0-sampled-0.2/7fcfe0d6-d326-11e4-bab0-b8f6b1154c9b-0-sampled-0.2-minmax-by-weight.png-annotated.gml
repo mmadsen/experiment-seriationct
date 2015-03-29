@@ -1,29 +1,6 @@
 graph [
   is_directed 0
-  node [
-    id 0
-    label "assemblage-39-33"
-    xCoordinate 33.0
-    child_of "assemblage-17-56"
-    appears_in_slice 3
-    yCoordinate 39.0
-    name "assemblage-39-33"
-    level "grandchild"
-    size 484.346982306
-    parent_node "assemblage-31-23"
-  ]
-  node [
-    id 1
-    label "assemblage-6-20"
-    xCoordinate 20.0
-    child_of "assemblage-69-65"
-    appears_in_slice 1
-    yCoordinate 6.0
-    name "assemblage-6-20"
-    level "grandchild"
-    size 74.9225286298
-    parent_node "assemblage-69-65"
-  ]
+  name "()"
   node [
     id 2
     label "assemblage-11-3"
@@ -33,8 +10,8 @@ graph [
     yCoordinate 11.0
     name "assemblage-11-3"
     level "child"
-    size 485.610223985
     parent_node "assemblage-64-65"
+    size 485.610223985
   ]
   node [
     id 3
@@ -45,8 +22,8 @@ graph [
     yCoordinate 21.0
     name "assemblage-21-17"
     level "child"
-    size 494.061646194
     parent_node "assemblage-64-65"
+    size 494.061646194
   ]
   node [
     id 4
@@ -57,8 +34,8 @@ graph [
     yCoordinate 32.0
     name "assemblage-32-21"
     level "child"
-    size 485.610223985
     parent_node "assemblage-64-65"
+    size 485.610223985
   ]
   node [
     id 5
@@ -69,8 +46,8 @@ graph [
     yCoordinate 10.0
     name "assemblage-10-51"
     level "grandchild"
-    size 961.170410185
     parent_node "assemblage-59-43"
+    size 961.170410185
   ]
   node [
     id 6
@@ -81,20 +58,8 @@ graph [
     yCoordinate 25.0
     name "assemblage-25-74"
     level "grandchild"
-    size 475.5601862
     parent_node "assemblage-54-71"
-  ]
-  node [
-    id 7
-    label "assemblage-44-36"
-    xCoordinate 36.0
-    child_of "assemblage-17-56"
-    appears_in_slice 2
-    yCoordinate 44.0
-    name "assemblage-44-36"
-    level "grandchild"
-    size 494.061646194
-    parent_node "assemblage-69-65"
+    size 475.5601862
   ]
   node [
     id 8
@@ -105,44 +70,20 @@ graph [
     yCoordinate 68.0
     name "assemblage-68-49"
     level "grandchild"
-    size 1053.33115713
     parent_node "assemblage-53-62"
+    size 1053.33115713
   ]
   node [
-    id 9
-    label "assemblage-25-2"
-    xCoordinate 2.0
-    child_of "assemblage-64-65"
-    appears_in_slice 4
-    yCoordinate 25.0
-    name "assemblage-25-2"
-    level "child"
-    size 475.5601862
-    parent_node "assemblage-64-65"
-  ]
-  node [
-    id 10
-    label "assemblage-39-44"
-    xCoordinate 44.0
-    child_of "assemblage-64-65"
+    id 7
+    label "assemblage-44-36"
+    xCoordinate 36.0
+    child_of "assemblage-17-56"
     appears_in_slice 2
-    yCoordinate 39.0
-    name "assemblage-39-44"
-    level "child"
-    size 494.061646194
-    parent_node "assemblage-64-65"
-  ]
-  node [
-    id 11
-    label "assemblage-33-69"
-    xCoordinate 69.0
-    child_of "assemblage-69-65"
-    appears_in_slice 1
-    yCoordinate 33.0
-    name "assemblage-33-69"
+    yCoordinate 44.0
+    name "assemblage-44-36"
     level "grandchild"
-    size 74.9225286298
     parent_node "assemblage-69-65"
+    size 494.061646194
   ]
   node [
     id 12
@@ -153,8 +94,8 @@ graph [
     yCoordinate 66.0
     name "assemblage-66-2"
     level "child"
-    size 485.610223985
     parent_node "assemblage-64-65"
+    size 485.610223985
   ]
   node [
     id 13
@@ -165,8 +106,68 @@ graph [
     yCoordinate 61.0
     name "assemblage-61-65"
     level "grandchild"
-    size 475.5601862
     parent_node "assemblage-59-43"
+    size 475.5601862
+  ]
+  node [
+    id 0
+    label "assemblage-39-33"
+    xCoordinate 33.0
+    child_of "assemblage-17-56"
+    appears_in_slice 3
+    yCoordinate 39.0
+    name "assemblage-39-33"
+    level "grandchild"
+    parent_node "assemblage-31-23"
+    size 484.346982306
+  ]
+  node [
+    id 1
+    label "assemblage-6-20"
+    xCoordinate 20.0
+    child_of "assemblage-69-65"
+    appears_in_slice 1
+    yCoordinate 6.0
+    name "assemblage-6-20"
+    level "grandchild"
+    parent_node "assemblage-69-65"
+    size 74.9225286298
+  ]
+  node [
+    id 9
+    label "assemblage-25-2"
+    xCoordinate 2.0
+    child_of "assemblage-64-65"
+    appears_in_slice 4
+    yCoordinate 25.0
+    name "assemblage-25-2"
+    level "child"
+    parent_node "assemblage-64-65"
+    size 475.5601862
+  ]
+  node [
+    id 10
+    label "assemblage-39-44"
+    xCoordinate 44.0
+    child_of "assemblage-64-65"
+    appears_in_slice 2
+    yCoordinate 39.0
+    name "assemblage-39-44"
+    level "child"
+    parent_node "assemblage-64-65"
+    size 494.061646194
+  ]
+  node [
+    id 11
+    label "assemblage-33-69"
+    xCoordinate 69.0
+    child_of "assemblage-69-65"
+    appears_in_slice 1
+    yCoordinate 33.0
+    name "assemblage-33-69"
+    level "grandchild"
+    parent_node "assemblage-69-65"
+    size 74.9225286298
   ]
   node [
     id 14
@@ -177,14 +178,8 @@ graph [
     yCoordinate 37.0
     name "assemblage-37-15"
     level "child"
-    size 485.610223985
     parent_node "assemblage-64-65"
-  ]
-  edge [
-    source 0
-    target 8
-    inverseweight 14.4425464217
-    weight 0.0692398674584
+    size 485.610223985
   ]
   edge [
     source 0
@@ -199,16 +194,22 @@ graph [
     weight 0.138126218047
   ]
   edge [
-    source 1
-    target 11
-    inverseweight 27.0792852072
-    weight 0.0369285966135
+    source 0
+    target 8
+    inverseweight 14.4425464217
+    weight 0.0692398674584
   ]
   edge [
     source 1
     target 7
     inverseweight 1.15861114167
     weight 0.86310235077
+  ]
+  edge [
+    source 1
+    target 11
+    inverseweight 27.0792852072
+    weight 0.0369285966135
   ]
   edge [
     source 2

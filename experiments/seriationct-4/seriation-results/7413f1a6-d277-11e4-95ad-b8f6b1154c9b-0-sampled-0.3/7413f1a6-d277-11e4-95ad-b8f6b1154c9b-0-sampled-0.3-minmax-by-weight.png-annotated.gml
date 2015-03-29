@@ -1,5 +1,6 @@
 graph [
   is_directed 0
+  name "()"
   node [
     id 0
     label "assemblage-13-43"
@@ -9,8 +10,8 @@ graph [
     yCoordinate 13.0
     name "assemblage-13-43"
     level "child"
-    size 1086.70910153
     parent_node "assemblage-9-16"
+    size 1086.70910153
   ]
   node [
     id 1
@@ -21,8 +22,8 @@ graph [
     yCoordinate 59.0
     name "assemblage-59-24"
     level "child"
-    size 30.4482642698
     parent_node "assemblage-9-16"
+    size 30.4482642698
   ]
   node [
     id 2
@@ -33,8 +34,8 @@ graph [
     yCoordinate 14.0
     name "assemblage-14-31"
     level "child"
-    size 1087.94985668
     parent_node "assemblage-9-16"
+    size 1087.94985668
   ]
   node [
     id 3
@@ -45,8 +46,8 @@ graph [
     yCoordinate 63.0
     name "assemblage-63-12"
     level "grandchild"
-    size 30.4482642698
     parent_node "assemblage-47-10"
+    size 30.4482642698
   ]
   node [
     id 4
@@ -57,8 +58,8 @@ graph [
     yCoordinate 43.0
     name "assemblage-43-9"
     level "child"
-    size 1086.54986022
     parent_node "assemblage-9-16"
+    size 1086.54986022
   ]
   node [
     id 5
@@ -69,8 +70,8 @@ graph [
     yCoordinate 25.0
     name "assemblage-25-47"
     level "grandchild"
-    size 30.4482642698
     parent_node "assemblage-22-55"
+    size 30.4482642698
   ]
   node [
     id 6
@@ -81,8 +82,8 @@ graph [
     yCoordinate 73.0
     name "assemblage-73-62"
     level "child"
-    size 1086.54986022
     parent_node "assemblage-9-16"
+    size 1086.54986022
   ]
   node [
     id 7
@@ -93,8 +94,8 @@ graph [
     yCoordinate 34.0
     name "assemblage-34-51"
     level "grandchild"
-    size 30.4482642698
     parent_node "assemblage-47-10"
+    size 30.4482642698
   ]
   node [
     id 8
@@ -105,8 +106,8 @@ graph [
     yCoordinate 27.0
     name "assemblage-27-49"
     level "grandchild"
-    size 30.4482642698
     parent_node "assemblage-15-46"
+    size 30.4482642698
   ]
   edge [
     source 0
@@ -116,9 +117,9 @@ graph [
   ]
   edge [
     source 1
-    target 3
-    inverseweight 1.24310941824
-    weight 0.804434416899
+    target 5
+    inverseweight 1.02322185207
+    weight 0.97730516405
   ]
   edge [
     source 1
@@ -128,9 +129,9 @@ graph [
   ]
   edge [
     source 1
-    target 5
-    inverseweight 1.02322185207
-    weight 0.97730516405
+    target 3
+    inverseweight 1.24310941824
+    weight 0.804434416899
   ]
   edge [
     source 2
