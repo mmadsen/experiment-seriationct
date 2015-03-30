@@ -1,0 +1,78 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-3-20 27207.0 2e-05 0.00046 20.0 3.0
+assemblage-49-5 32156.0 5e-06 0.0 5.0 49.0
+assemblage-12-27 26812.0 2.7e-05 0.00037 27.0 12.0
+assemblage-14-15 18060.0 1.5e-05 0.00035 15.0 14.0
+assemblage-18-23 29341.0 2.3e-05 0.00031 23.0 18.0
+assemblage-7-20 29341.0 2e-05 0.00042 20.0 7.0
+assemblage-17-9 22523.0 9e-06 0.00032 9.0 17.0
+assemblage-10-17 29341.0 1.7e-05 0.00039 17.0 10.0
+assemblage-18-9 26812.0 9e-06 0.00031 9.0 18.0
+assemblage-28-25 15087.0 2.5e-05 0.00021 25.0 28.0
+assemblage-47-22 40583.0 2.2e-05 2e-05 22.0 47.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-3-20 27207.0 2e-05 0.00046 20.0 3.0
+assemblage-49-5 32156.0 5e-06 0.0 5.0 49.0
+assemblage-12-27 26812.0 2.7e-05 0.00037 27.0 12.0
+assemblage-14-15 18060.0 1.5e-05 0.00035 15.0 14.0
+assemblage-18-23 29341.0 2.3e-05 0.00031 23.0 18.0
+assemblage-7-20 29341.0 2e-05 0.00042 20.0 7.0
+assemblage-17-9 22523.0 9e-06 0.00032 9.0 17.0
+assemblage-10-17 29341.0 1.7e-05 0.00039 17.0 10.0
+assemblage-18-9 26812.0 9e-06 0.00031 9.0 18.0
+assemblage-28-25 15087.0 2.5e-05 0.00021 25.0 28.0
+assemblage-47-22 40583.0 2.2e-05 2e-05 22.0 47.0
+*Tie data
+From To Edge Count
+assemblage-17-9	assemblage-10-17	 1 1
+assemblage-7-20	assemblage-10-17	 1 1
+assemblage-3-20	assemblage-12-27	 1 1
+assemblage-18-9	assemblage-12-27	 1 1
+assemblage-47-22	assemblage-14-15	 1 1
+assemblage-3-20	assemblage-17-9	 1 1
+assemblage-18-9	assemblage-7-20	 1 1
+assemblage-47-22	assemblage-17-9	 1 1
+assemblage-7-20	assemblage-18-23	 1 1
+assemblage-49-5	assemblage-10-17	 1 1
+assemblage-3-20	assemblage-28-25	 1 1
+assemblage-3-20	assemblage-14-15	 1 1
+assemblage-49-5	assemblage-18-23	 1 1
+assemblage-3-20	assemblage-18-9	 1 1
+assemblage-17-9	assemblage-28-25	 1 1
+assemblage-47-22	assemblage-7-20	 1 1
+assemblage-49-5	assemblage-28-25	 1 1
+assemblage-47-22	assemblage-10-17	 1 1
+assemblage-49-5	assemblage-47-22	 1 1
+assemblage-12-27	assemblage-28-25	 1 1
+assemblage-10-17	assemblage-7-20	 1 1
+assemblage-10-17	assemblage-18-23	 1 1
+assemblage-17-9	assemblage-7-20	 1 1
+assemblage-10-17	assemblage-12-27	 1 1
+assemblage-17-9	assemblage-14-15	 1 1
+assemblage-47-22	assemblage-18-9	 1 1
+assemblage-10-17	assemblage-28-25	 1 1
+assemblage-17-9	assemblage-18-9	 1 1
+assemblage-12-27	assemblage-18-23	 1 1
+assemblage-18-9	assemblage-10-17	 1 1
+assemblage-17-9	assemblage-47-22	 1 1
+assemblage-12-27	assemblage-14-15	 1 1
+assemblage-10-17	assemblage-14-15	 1 1
+assemblage-49-5	assemblage-14-15	 1 1
+assemblage-3-20	assemblage-49-5	 1 1
+assemblage-10-17	assemblage-17-9	 1 1
+assemblage-49-5	assemblage-17-9	 1 1
+assemblage-7-20	assemblage-14-15	 1 1
+assemblage-7-20	assemblage-28-25	 1 1
+assemblage-14-15	assemblage-18-23	 1 1
+assemblage-18-9	assemblage-28-25	 1 1
+assemblage-47-22	assemblage-12-27	 1 1
+assemblage-17-9	assemblage-18-23	 1 1
+assemblage-49-5	assemblage-12-27	 1 1
+assemblage-18-9	assemblage-17-9	 1 1
+assemblage-49-5	assemblage-7-20	 1 1
+assemblage-47-22	assemblage-28-25	 1 1
+assemblage-7-20	assemblage-12-27	 1 1
+assemblage-3-20	assemblage-7-20	 1 1
+assemblage-17-9	assemblage-12-27	 1 1

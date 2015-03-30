@@ -1,0 +1,66 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-30-8 33579.0 8e-06 0.00019 8.0 30.0
+assemblage-3-21 20696.0 2.1e-05 0.00046 21.0 3.0
+assemblage-41-7 45313.0 7e-06 8e-05 7.0 41.0
+assemblage-9-3 45313.0 3e-06 0.0004 3.0 9.0
+assemblage-19-16 28597.0 1.6e-05 0.0003 16.0 19.0
+assemblage-14-6 16252.0 6e-06 0.00035 6.0 14.0
+assemblage-47-16 28962.0 1.6e-05 2e-05 16.0 47.0
+assemblage-16-15 45313.0 1.5e-05 0.00033 15.0 16.0
+assemblage-45-26 13227.0 2.6e-05 4e-05 26.0 45.0
+assemblage-36-8 16252.0 8e-06 0.00013 8.0 36.0
+assemblage-45-24 13227.0 2.4e-05 4e-05 24.0 45.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-30-8 33579.0 8e-06 0.00019 8.0 30.0
+assemblage-3-21 20696.0 2.1e-05 0.00046 21.0 3.0
+assemblage-41-7 45313.0 7e-06 8e-05 7.0 41.0
+assemblage-9-3 45313.0 3e-06 0.0004 3.0 9.0
+assemblage-19-16 28597.0 1.6e-05 0.0003 16.0 19.0
+assemblage-14-6 16252.0 6e-06 0.00035 6.0 14.0
+assemblage-47-16 28962.0 1.6e-05 2e-05 16.0 47.0
+assemblage-16-15 45313.0 1.5e-05 0.00033 15.0 16.0
+assemblage-45-26 13227.0 2.6e-05 4e-05 26.0 45.0
+assemblage-36-8 16252.0 8e-06 0.00013 8.0 36.0
+assemblage-45-24 13227.0 2.4e-05 4e-05 24.0 45.0
+*Tie data
+From To Edge Count
+assemblage-41-7	assemblage-16-15	 1 1
+assemblage-36-8	assemblage-45-24	 1 1
+assemblage-45-24	assemblage-9-3	 1 1
+assemblage-14-6	assemblage-41-7	 1 1
+assemblage-14-6	assemblage-45-24	 1 1
+assemblage-14-6	assemblage-45-26	 1 1
+assemblage-45-26	assemblage-16-15	 1 1
+assemblage-9-3	assemblage-19-16	 1 1
+assemblage-14-6	assemblage-3-21	 1 1
+assemblage-9-3	assemblage-16-15	 1 1
+assemblage-30-8	assemblage-3-21	 1 1
+assemblage-3-21	assemblage-47-16	 1 1
+assemblage-3-21	assemblage-36-8	 1 1
+assemblage-14-6	assemblage-9-3	 1 1
+assemblage-45-26	assemblage-41-7	 1 1
+assemblage-30-8	assemblage-9-3	 1 1
+assemblage-3-21	assemblage-19-16	 1 1
+assemblage-45-26	assemblage-19-16	 1 1
+assemblage-45-26	assemblage-36-8	 1 1
+assemblage-45-26	assemblage-9-3	 1 1
+assemblage-14-6	assemblage-47-16	 1 1
+assemblage-14-6	assemblage-19-16	 1 1
+assemblage-3-21	assemblage-41-7	 1 1
+assemblage-45-26	assemblage-45-24	 1 1
+assemblage-30-8	assemblage-41-7	 1 1
+assemblage-3-21	assemblage-9-3	 1 1
+assemblage-36-8	assemblage-47-16	 1 1
+assemblage-36-8	assemblage-16-15	 1 1
+assemblage-9-3	assemblage-45-24	 1 1
+assemblage-9-3	assemblage-45-26	 1 1
+assemblage-41-7	assemblage-45-24	 1 1
+assemblage-41-7	assemblage-45-26	 1 1
+assemblage-41-7	assemblage-9-3	 1 1
+assemblage-14-6	assemblage-36-8	 1 1
+assemblage-14-6	assemblage-16-15	 1 1
+assemblage-41-7	assemblage-19-16	 1 1
+assemblage-30-8	assemblage-14-6	 1 1
+assemblage-19-16	assemblage-16-15	 1 1
