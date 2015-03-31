@@ -2,7 +2,7 @@
 
 mkdir -p rawnetworkmodels/seriationct-14-networkmodel
 
-seriationct-build-clustered-network.py --experiment seriationct-14 --outputdirectory rawnetworkmodels/seriationct-14-networkmodel --numclusters 3 --slices 5 --nodespercluster 10 --interconnectfraction 0.2 --centroidmin 50 --centroidmax 500 --clusterspread 10 --debug 1
+seriationct-build-clustered-network.py --experiment seriationct-14 --outputdirectory rawnetworkmodels/seriationct-14-networkmodel --numclusters 3 --slices 5 --nodespercluster 10 --interconnectfraction 0.2 --centroidmin 100 --centroidmax 1000 --clusterspread 10 --intercluster_edgeweight 1 --intracluster_edgeweight 10 --debug 1
 
 cp bin/build-networkmodel.sh rawnetworkmodels/seriationct-14-networkmodel
 cd rawnetworkmodels

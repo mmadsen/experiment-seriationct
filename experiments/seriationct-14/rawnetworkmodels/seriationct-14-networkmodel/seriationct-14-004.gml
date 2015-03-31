@@ -2,1412 +2,1430 @@ graph [
   name "(complete_graph(10))_with_int_labels"
   node [
     id 0
-    label "assemblage-381-337"
+    label "assemblage-989-560"
     appears_in_slice "4"
-    ycoord "337"
+    ycoord "560"
     level "None"
     cluster_id "0"
-    xcoord "381"
-    parent_node "assemblage-171-316"
+    xcoord "989"
+    parent_node "assemblage-864-937"
   ]
   node [
     id 1
-    label "assemblage-380-339"
+    label "assemblage-954-553"
     appears_in_slice "4"
-    ycoord "339"
+    ycoord "553"
     level "None"
     cluster_id "0"
-    xcoord "380"
-    parent_node "assemblage-159-310"
+    xcoord "954"
+    parent_node "assemblage-867-918"
   ]
   node [
     id 2
-    label "assemblage-387-340"
+    label "assemblage-982-555"
     appears_in_slice "4"
-    ycoord "340"
+    ycoord "555"
     level "None"
     cluster_id "0"
-    xcoord "387"
-    parent_node "assemblage-184-302"
+    xcoord "982"
+    parent_node "assemblage-867-918"
   ]
   node [
     id 3
-    label "assemblage-378-321"
+    label "assemblage-959-573"
     appears_in_slice "4"
-    ycoord "321"
+    ycoord "573"
     level "None"
     cluster_id "0"
-    xcoord "378"
-    parent_node "assemblage-159-310"
+    xcoord "959"
+    parent_node "assemblage-864-937"
   ]
   node [
     id 4
-    label "assemblage-379-325"
+    label "assemblage-971-557"
     appears_in_slice "4"
-    ycoord "325"
+    ycoord "557"
     level "None"
     cluster_id "0"
-    xcoord "379"
-    parent_node "assemblage-171-281"
+    xcoord "971"
+    parent_node "assemblage-867-918"
   ]
   node [
     id 5
-    label "assemblage-383-317"
+    label "assemblage-969-543"
     appears_in_slice "4"
-    ycoord "317"
+    ycoord "543"
     level "None"
     cluster_id "0"
-    xcoord "383"
-    parent_node "assemblage-171-281"
+    xcoord "969"
+    parent_node "assemblage-868-891"
   ]
   node [
     id 6
-    label "assemblage-380-334"
+    label "assemblage-958-564"
     appears_in_slice "4"
-    ycoord "334"
+    ycoord "564"
     level "None"
     cluster_id "0"
-    xcoord "380"
-    parent_node "assemblage-175-320"
+    xcoord "958"
+    parent_node "assemblage-868-891"
   ]
   node [
     id 7
-    label "assemblage-367-323"
+    label "assemblage-950-563"
     appears_in_slice "4"
-    ycoord "323"
+    ycoord "563"
     level "None"
     cluster_id "0"
-    xcoord "367"
-    parent_node "assemblage-173-300"
+    xcoord "950"
+    parent_node "assemblage-868-891"
   ]
   node [
     id 8
-    label "assemblage-388-320"
+    label "assemblage-959-569"
     appears_in_slice "4"
-    ycoord "320"
+    ycoord "569"
     level "None"
     cluster_id "0"
-    xcoord "388"
-    parent_node "assemblage-170-290"
+    xcoord "959"
+    parent_node "assemblage-871-934"
   ]
   node [
     id 9
-    label "assemblage-398-337"
+    label "assemblage-956-542"
     appears_in_slice "4"
-    ycoord "337"
+    ycoord "542"
     level "None"
     cluster_id "0"
-    xcoord "398"
-    parent_node "assemblage-171-281"
+    xcoord "956"
+    parent_node "assemblage-859-902"
   ]
   node [
     id 10
-    label "assemblage-298-248"
+    label "assemblage-526-770"
     appears_in_slice "4"
-    ycoord "248"
+    ycoord "770"
     level "None"
     cluster_id "1"
-    xcoord "298"
-    parent_node "assemblage-81-344"
+    xcoord "526"
+    parent_node "assemblage-420-624"
   ]
   node [
     id 11
-    label "assemblage-327-267"
+    label "assemblage-513-755"
     appears_in_slice "4"
-    ycoord "267"
+    ycoord "755"
     level "None"
     cluster_id "1"
-    xcoord "327"
-    parent_node "assemblage-87-349"
+    xcoord "513"
+    parent_node "assemblage-417-639"
   ]
   node [
     id 12
-    label "assemblage-316-275"
+    label "assemblage-508-767"
     appears_in_slice "4"
-    ycoord "275"
+    ycoord "767"
     level "None"
     cluster_id "1"
-    xcoord "316"
-    parent_node "assemblage-99-351"
+    xcoord "508"
+    parent_node "assemblage-418-644"
   ]
   node [
     id 13
-    label "assemblage-316-243"
+    label "assemblage-528-774"
     appears_in_slice "4"
-    ycoord "243"
+    ycoord "774"
     level "None"
     cluster_id "1"
-    xcoord "316"
-    parent_node "assemblage-72-348"
+    xcoord "528"
+    parent_node "assemblage-425-620"
   ]
   node [
     id 14
-    label "assemblage-315-269"
+    label "assemblage-513-766"
     appears_in_slice "4"
-    ycoord "269"
+    ycoord "766"
     level "None"
     cluster_id "1"
-    xcoord "315"
-    parent_node "assemblage-94-364"
+    xcoord "513"
+    parent_node "assemblage-437-632"
   ]
   node [
     id 15
-    label "assemblage-310-255"
+    label "assemblage-499-767"
     appears_in_slice "4"
-    ycoord "255"
+    ycoord "767"
     level "None"
     cluster_id "1"
-    xcoord "310"
-    parent_node "assemblage-97-354"
+    xcoord "499"
+    parent_node "assemblage-413-610"
   ]
   node [
     id 16
-    label "assemblage-321-251"
+    label "assemblage-495-766"
     appears_in_slice "4"
-    ycoord "251"
+    ycoord "766"
     level "None"
     cluster_id "1"
-    xcoord "321"
-    parent_node "assemblage-87-349"
+    xcoord "495"
+    parent_node "assemblage-417-616"
   ]
   node [
     id 17
-    label "assemblage-323-244"
+    label "assemblage-512-765"
     appears_in_slice "4"
-    ycoord "244"
+    ycoord "765"
     level "None"
     cluster_id "1"
-    xcoord "323"
-    parent_node "assemblage-84-346"
+    xcoord "512"
+    parent_node "assemblage-418-644"
   ]
   node [
     id 18
-    label "assemblage-322-265"
+    label "assemblage-492-757"
     appears_in_slice "4"
-    ycoord "265"
+    ycoord "757"
     level "None"
     cluster_id "1"
-    xcoord "322"
-    parent_node "assemblage-87-349"
+    xcoord "492"
+    parent_node "assemblage-413-610"
   ]
   node [
     id 19
-    label "assemblage-330-260"
+    label "assemblage-534-777"
     appears_in_slice "4"
-    ycoord "260"
+    ycoord "777"
     level "None"
     cluster_id "1"
-    xcoord "330"
-    parent_node "assemblage-82-369"
+    xcoord "534"
+    parent_node "assemblage-425-620"
   ]
   node [
     id 20
-    label "assemblage-289-265"
+    label "assemblage-437-859"
     appears_in_slice "4"
-    ycoord "265"
+    ycoord "859"
     level "None"
     cluster_id "2"
-    xcoord "289"
-    parent_node "assemblage-136-206"
+    xcoord "437"
+    parent_node "assemblage-880-192"
   ]
   node [
     id 21
-    label "assemblage-279-259"
+    label "assemblage-454-851"
     appears_in_slice "4"
-    ycoord "259"
+    ycoord "851"
     level "None"
     cluster_id "2"
-    xcoord "279"
-    parent_node "assemblage-156-196"
+    xcoord "454"
+    parent_node "assemblage-896-198"
   ]
   node [
     id 22
-    label "assemblage-275-260"
+    label "assemblage-452-848"
     appears_in_slice "4"
-    ycoord "260"
+    ycoord "848"
     level "None"
     cluster_id "2"
-    xcoord "275"
-    parent_node "assemblage-120-208"
+    xcoord "452"
+    parent_node "assemblage-896-198"
   ]
   node [
     id 23
-    label "assemblage-258-259"
+    label "assemblage-446-859"
     appears_in_slice "4"
-    ycoord "259"
+    ycoord "859"
     level "None"
     cluster_id "2"
-    xcoord "258"
-    parent_node "assemblage-156-196"
+    xcoord "446"
+    parent_node "assemblage-909-198"
   ]
   node [
     id 24
-    label "assemblage-262-240"
+    label "assemblage-446-848"
     appears_in_slice "4"
-    ycoord "240"
+    ycoord "848"
     level "None"
     cluster_id "2"
-    xcoord "262"
-    parent_node "assemblage-118-199"
+    xcoord "446"
+    parent_node "assemblage-896-198"
   ]
   node [
     id 25
-    label "assemblage-282-244"
+    label "assemblage-445-863"
     appears_in_slice "4"
-    ycoord "244"
+    ycoord "863"
     level "None"
     cluster_id "2"
-    xcoord "282"
-    parent_node "assemblage-156-196"
+    xcoord "445"
+    parent_node "assemblage-902-178"
   ]
   node [
     id 26
-    label "assemblage-280-259"
+    label "assemblage-450-863"
     appears_in_slice "4"
-    ycoord "259"
+    ycoord "863"
     level "None"
     cluster_id "2"
-    xcoord "280"
-    parent_node "assemblage-133-216"
+    xcoord "450"
+    parent_node "assemblage-884-199"
   ]
   node [
     id 27
-    label "assemblage-288-249"
+    label "assemblage-453-873"
     appears_in_slice "4"
-    ycoord "249"
+    ycoord "873"
     level "None"
     cluster_id "2"
-    xcoord "288"
-    parent_node "assemblage-136-206"
+    xcoord "453"
+    parent_node "assemblage-899-198"
   ]
   node [
     id 28
-    label "assemblage-266-247"
+    label "assemblage-443-865"
     appears_in_slice "4"
-    ycoord "247"
+    ycoord "865"
     level "None"
     cluster_id "2"
-    xcoord "266"
-    parent_node "assemblage-156-196"
+    xcoord "443"
+    parent_node "assemblage-899-198"
   ]
   node [
     id 29
-    label "assemblage-269-250"
+    label "assemblage-449-859"
     appears_in_slice "4"
-    ycoord "250"
+    ycoord "859"
     level "None"
     cluster_id "2"
-    xcoord "269"
-    parent_node "assemblage-139-210"
+    xcoord "449"
+    parent_node "assemblage-899-198"
   ]
   edge [
     source 0
     target 1
-    distance 1.73205080757
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 35.6931365951
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 2
-    distance 3.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 8.60232526704
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 3
-    distance 4.35889894354
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 32.6955654485
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 4
-    distance 3.74165738677
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 18.2482875909
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 5
-    distance 4.69041575982
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 26.2488094968
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 6
-    distance 2.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 31.2569992162
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 7
-    distance 5.29150262213
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 39.1152144312
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 8
-    distance 4.89897948557
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 31.3209195267
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 0
     target 9
-    distance 4.12310562562
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 37.5898922584
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 2
-    distance 2.82842712475
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 28.0713376952
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 3
-    distance 4.472135955
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 20.6155281281
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 4
-    distance 3.87298334621
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 17.4642491966
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 5
-    distance 5.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 18.0277563773
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 6
-    distance 2.2360679775
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 11.7046999107
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 7
-    distance 5.38516480713
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 10.7703296143
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 8
-    distance 5.19615242271
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 16.7630546142
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
     target 9
-    distance 4.472135955
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 11.1803398875
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 1
-    target 16
-    distance 12.124355653
+    target 13
+    distance 479.913533879
+    normalized_weight 1.0
+    weight 1.0
+    unnormalized_weight 1.0
   ]
   edge [
     source 2
     target 3
-    distance 5.29150262213
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 29.206163733
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 2
     target 4
-    distance 4.79583152331
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 11.1803398875
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 2
     target 5
-    distance 5.19615242271
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 17.691806013
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 2
     target 6
-    distance 3.60555127546
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 25.632011236
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 2
     target 7
-    distance 6.0827625303
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 32.9848450049
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 2
     target 8
-    distance 4.58257569496
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 26.9258240357
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 2
     target 9
-    distance 3.74165738677
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 29.0688837075
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 2
+    target 20
+    distance 624.05208116
+    normalized_weight 1.0
+    weight 1.0
+    unnormalized_weight 1.0
   ]
   edge [
     source 3
     target 4
-    distance 2.2360679775
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 20.0
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 3
     target 5
-    distance 3.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 31.6227766017
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 3
     target 6
-    distance 3.87298334621
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 9.05538513814
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 3
     target 7
-    distance 3.60555127546
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 13.4536240471
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 3
     target 8
-    distance 3.31662479036
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 4.0
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 3
     target 9
-    distance 6.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 3
-    target 14
-    distance 10.7238052948
+    distance 31.1448230048
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 4
     target 5
-    distance 3.46410161514
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 14.1421356237
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 4
     target 6
-    distance 3.16227766017
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 14.7648230602
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 4
     target 7
-    distance 3.74165738677
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 21.8403296678
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 4
     target 8
-    distance 3.74165738677
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 16.9705627485
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 4
     target 9
-    distance 5.56776436283
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 21.2132034356
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 5
     target 6
-    distance 4.472135955
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 23.7065391823
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 5
     target 7
-    distance 4.69041575982
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 27.5862284483
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 5
     target 8
-    distance 2.82842712475
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 27.8567765544
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 5
     target 9
-    distance 5.9160797831
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 13.0384048104
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 6
     target 7
-    distance 4.89897948557
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 8.0622577483
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 6
     target 8
-    distance 4.69041575982
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 5.09901951359
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 6
     target 9
-    distance 4.58257569496
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 22.0907220344
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 6
+    target 12
+    distance 493.668917393
+    normalized_weight 1.0
+    weight 1.0
+    unnormalized_weight 1.0
   ]
   edge [
     source 7
     target 8
-    distance 4.89897948557
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 10.8166538264
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 7
     target 9
-    distance 6.7082039325
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 21.8403296678
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 7
-    target 22
-    distance 12.449899598
+    target 21
+    distance 573.550346526
+    normalized_weight 1.0
+    weight 1.0
+    unnormalized_weight 1.0
   ]
   edge [
     source 8
     target 9
-    distance 5.19615242271
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 8
-    target 24
-    distance 14.3527000944
+    distance 27.1661554144
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 11
-    distance 6.92820323028
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 19.8494332413
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 12
-    distance 6.7082039325
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 18.2482875909
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 13
-    distance 4.79583152331
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 4.472135955
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 14
-    distance 6.16441400297
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 13.6014705087
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 15
-    distance 4.35889894354
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 27.1661554144
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 16
-    distance 5.09901951359
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 31.2569992162
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 17
-    distance 5.38516480713
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 14.8660687473
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 18
-    distance 6.40312423743
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 36.4005494464
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 10
     target 19
-    distance 6.63324958071
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 10.6301458127
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
-    source 11
-    target 12
-    distance 4.35889894354
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
-    target 13
-    distance 5.9160797831
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
-    target 14
-    distance 3.74165738677
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
-    target 15
-    distance 5.38516480713
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
-    target 16
-    distance 4.69041575982
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
-    target 17
-    distance 5.19615242271
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
-    target 18
-    distance 2.64575131106
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
-    target 19
-    distance 3.16227766017
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 11
+    source 10
     target 20
-    distance 6.32455532034
+    distance 125.865007051
+    normalized_weight 1.0
+    weight 1.0
+    unnormalized_weight 1.0
+  ]
+  edge [
+    source 11
+    target 12
+    distance 13.0
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 11
+    target 13
+    distance 24.2074368738
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 11
+    target 14
+    distance 11.0
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 11
+    target 15
+    distance 18.4390889146
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 11
+    target 16
+    distance 21.0950231097
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 11
+    target 17
+    distance 10.0498756211
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 11
+    target 18
+    distance 21.0950231097
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 11
+    target 19
+    distance 30.4138126515
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 12
     target 13
-    distance 5.65685424949
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 21.1896201004
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 12
     target 14
-    distance 2.64575131106
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 12
-    target 15
     distance 5.09901951359
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 12
+    target 15
+    distance 9.0
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 12
     target 16
-    distance 5.38516480713
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 13.0384048104
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 12
     target 17
-    distance 6.16441400297
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 4.472135955
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 12
     target 18
-    distance 4.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 18.8679622641
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 12
     target 19
-    distance 5.38516480713
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
-  ]
-  edge [
-    source 12
-    target 28
-    distance 8.83176086633
+    distance 27.8567765544
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 13
     target 14
-    distance 5.19615242271
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 17.0
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 13
     target 15
-    distance 4.24264068712
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 29.8328677804
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 13
     target 16
-    distance 3.60555127546
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 33.9558536927
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 13
     target 17
-    distance 2.82842712475
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 18.3575597507
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 13
     target 18
-    distance 5.29150262213
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 39.8120584748
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 13
     target 19
-    distance 5.56776436283
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 6.7082039325
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 14
     target 15
-    distance 4.35889894354
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 14.0356688476
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 14
     target 16
-    distance 4.89897948557
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 18.0
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 14
     target 17
-    distance 5.74456264654
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 1.41421356237
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 14
     target 18
-    distance 3.31662479036
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 22.8473193176
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 14
     target 19
-    distance 4.89897948557
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 23.7065391823
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
+  ]
+  edge [
+    source 14
+    target 28
+    distance 121.24768039
+    normalized_weight 1.0
+    weight 1.0
+    unnormalized_weight 1.0
   ]
   edge [
     source 15
     target 16
-    distance 3.87298334621
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 4.12310562562
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 15
     target 17
-    distance 4.89897948557
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 13.152946438
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 15
     target 18
-    distance 4.69041575982
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 12.2065556157
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 15
     target 19
-    distance 5.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 36.4005494464
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 16
     target 17
-    distance 3.0
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 17.0293863659
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 16
     target 18
-    distance 3.87298334621
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 9.48683298051
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 16
     target 19
-    distance 4.24264068712
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 40.5215991787
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 17
     target 18
-    distance 4.69041575982
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 21.5406592285
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 17
     target 19
-    distance 4.79583152331
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 25.0599281723
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 18
     target 19
-    distance 3.60555127546
-    normalized_weight 0.5
-    unnormalized_weight 0.5
-    weight 0.5
+    distance 46.5188133985
+    normalized_weight 10.0
+    unnormalized_weight 10.0
+    weight 10.0
   ]
   edge [
     source 20
     target 21
-    distance 4.0
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 18.7882942281
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 22
-    distance 4.35889894354
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 18.6010752377
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 23
-    distance 6.0827625303
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 9.0
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 24
-    distance 7.21110255093
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 14.2126704036
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 25
-    distance 5.29150262213
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 8.94427191
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 26
-    distance 3.87298334621
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 13.6014705087
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 27
-    distance 4.12310562562
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 21.2602916255
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 28
-    distance 6.40312423743
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 8.48528137424
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 20
     target 29
-    distance 5.9160797831
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 12.0
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 21
     target 22
-    distance 2.2360679775
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 3.60555127546
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 21
     target 23
-    distance 4.58257569496
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 11.313708499
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 21
+    target 24
+    distance 8.54400374532
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 21
+    target 25
+    distance 15.0
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 21
+    target 26
+    distance 12.6491106407
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 21
+    target 27
+    distance 22.0227155455
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 21
+    target 28
+    distance 17.8044938148
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 21
+    target 29
+    distance 9.43398113206
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 22
+    target 23
+    distance 12.5299640861
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 22
     target 24
     distance 6.0
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 21
+    source 22
     target 25
-    distance 4.24264068712
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 16.5529453572
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 21
+    source 22
     target 26
-    distance 1.0
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 15.1327459504
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 21
+    source 22
     target 27
-    distance 4.35889894354
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 25.0199920064
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 21
+    source 22
     target 28
+    distance 19.2353840617
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 22
+    target 29
+    distance 11.401754251
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 23
+    target 24
+    distance 11.0
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 23
+    target 25
+    distance 4.12310562562
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 23
+    target 26
+    distance 5.65685424949
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 23
+    target 27
+    distance 15.6524758425
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 23
+    target 28
+    distance 6.7082039325
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 23
+    target 29
+    distance 3.0
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 24
+    target 25
+    distance 15.0332963784
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 24
+    target 26
+    distance 15.5241746963
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 24
+    target 27
+    distance 25.9615099715
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 24
+    target 28
+    distance 17.2626765016
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 24
+    target 29
+    distance 11.401754251
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
+  ]
+  edge [
+    source 25
+    target 26
     distance 5.0
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 21
-    target 29
-    distance 4.35889894354
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 22
-    target 23
-    distance 4.24264068712
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 22
-    target 24
-    distance 5.74456264654
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 22
-    target 25
-    distance 4.79583152331
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 22
-    target 26
-    distance 2.44948974278
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 22
+    source 25
     target 27
-    distance 4.89897948557
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 12.8062484749
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 22
+    source 25
     target 28
-    distance 4.69041575982
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 2.82842712475
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 22
+    source 25
     target 29
-    distance 4.0
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 5.65685424949
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 23
-    target 24
-    distance 4.79583152331
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 23
-    target 25
-    distance 6.2449979984
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 23
-    target 26
-    distance 4.69041575982
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 23
+    source 26
     target 27
-    distance 6.32455532034
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 10.4403065089
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 23
+    source 26
     target 28
-    distance 4.472135955
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 7.28010988928
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
-    source 23
-    target 29
-    distance 4.472135955
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 24
-    target 25
-    distance 4.89897948557
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 24
-    target 26
-    distance 6.0827625303
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 24
-    target 27
-    distance 5.9160797831
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 24
-    target 28
-    distance 3.31662479036
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 24
+    source 26
     target 29
     distance 4.12310562562
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 25
-    target 26
-    distance 4.12310562562
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 25
-    target 27
-    distance 3.31662479036
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 25
-    target 28
-    distance 4.35889894354
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 25
-    target 29
-    distance 4.35889894354
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 26
-    target 27
-    distance 4.24264068712
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 26
-    target 28
-    distance 5.09901951359
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
-  ]
-  edge [
-    source 26
-    target 29
-    distance 4.472135955
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 27
     target 28
-    distance 4.89897948557
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 12.8062484749
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 27
     target 29
-    distance 4.472135955
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 14.5602197786
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
   edge [
     source 28
     target 29
-    distance 2.44948974278
-    normalized_weight 0.5
-    weight 0.5
-    unnormalized_weight 0.5
+    distance 8.48528137424
+    normalized_weight 10.0
+    weight 10.0
+    unnormalized_weight 10.0
   ]
 ]
