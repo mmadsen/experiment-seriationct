@@ -2,7 +2,7 @@
 
 mkdir -p rawnetworkmodels/REPLACEME-networkmodel
 
-seriationct-create-networkmodel.py --graphshow 0 --x 75 --y 75 --slices 5 --model grid --wiring hierarchy --children 4 --levels 3 --overlap 0.2 --density 0.3 --filename rawnetworkmodels/REPLACEME-networkmodel/REPLACEME --child_interconnect_percentage 1.0 --gchild_interconnect_percentage 1.0 --child_interconnect_weight 0.1 --gchild_interconnect_weight 1.0 --root_child_weight 0.25 --child_gchild_weight 1.0 --root_swap_probability=0.2
+seriationct-build-clustered-network.py --experiment REPLACEME --outputdirectory rawnetworkmodels/REPLACEME-networkmodel --numclusters 3 --slices 5 --nodespercluster 10 --interconnectfraction 0.2 --centroidmin 100 --centroidmax 1000 --clusterspread 10 --intercluster_edgeweight 1 --intracluster_edgeweight 100 --debug 1
 
 cp bin/build-networkmodel.sh rawnetworkmodels/REPLACEME-networkmodel
 cd rawnetworkmodels

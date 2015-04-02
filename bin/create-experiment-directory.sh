@@ -18,6 +18,7 @@ mkdir jobs
 mkdir networks
 mkdir rawnetworkmodels
 mkdir sampled-data
+mkdir sampled-traits
 mkdir seriation-results
 mkdir temporal
 mkdir xyfiles

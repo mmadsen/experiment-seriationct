@@ -1,0 +1,57 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-186-264 500.0 0.000264 0.00803 264.0 186.0
+assemblage-903-542 500.0 0.000542 0.00086 542.0 903.0
+assemblage-706-533 500.0 0.000533 0.00283 533.0 706.0
+assemblage-902-178 500.0 0.000178 0.00087 178.0 902.0
+assemblage-901-532 500.0 0.000532 0.00088 532.0 901.0
+assemblage-431-636 500.0 0.000636 0.00558 636.0 431.0
+assemblage-852-918 500.0 0.000918 0.00137 918.0 852.0
+assemblage-893-534 500.0 0.000534 0.00096 534.0 893.0
+assemblage-679-528 500.0 0.000528 0.0031 528.0 679.0
+assemblage-860-926 500.0 0.000926 0.00129 926.0 860.0
+assemblage-286-770 500.0 0.00077 0.00703 770.0 286.0
+assemblage-177-255 500.0 0.000255 0.00812 255.0 177.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-186-264 500.0 0.000264 0.00803 264.0 186.0
+assemblage-903-542 500.0 0.000542 0.00086 542.0 903.0
+assemblage-706-533 500.0 0.000533 0.00283 533.0 706.0
+assemblage-902-178 500.0 0.000178 0.00087 178.0 902.0
+assemblage-901-532 500.0 0.000532 0.00088 532.0 901.0
+assemblage-431-636 500.0 0.000636 0.00558 636.0 431.0
+assemblage-852-918 500.0 0.000918 0.00137 918.0 852.0
+assemblage-893-534 500.0 0.000534 0.00096 534.0 893.0
+assemblage-679-528 500.0 0.000528 0.0031 528.0 679.0
+assemblage-860-926 500.0 0.000926 0.00129 926.0 860.0
+assemblage-286-770 500.0 0.00077 0.00703 770.0 286.0
+assemblage-177-255 500.0 0.000255 0.00812 255.0 177.0
+*Tie data
+From To Edge Count
+assemblage-286-770	assemblage-852-918	 1 1
+assemblage-903-542	assemblage-902-178	 1 1
+assemblage-186-264	assemblage-893-534	 1 1
+assemblage-902-178	assemblage-679-528	 1 1
+assemblage-706-533	assemblage-852-918	 1 1
+assemblage-902-178	assemblage-852-918	 1 1
+assemblage-852-918	assemblage-679-528	 1 1
+assemblage-902-178	assemblage-860-926	 1 1
+assemblage-852-918	assemblage-893-534	 1 1
+assemblage-903-542	assemblage-286-770	 1 1
+assemblage-431-636	assemblage-852-918	 1 1
+assemblage-860-926	assemblage-902-178	 1 1
+assemblage-286-770	assemblage-893-534	 1 1
+assemblage-186-264	assemblage-852-918	 1 1
+assemblage-706-533	assemblage-902-178	 1 1
+assemblage-860-926	assemblage-177-255	 1 1
+assemblage-860-926	assemblage-852-918	 1 1
+assemblage-902-178	assemblage-893-534	 1 1
+assemblage-431-636	assemblage-286-770	 1 1
+assemblage-186-264	assemblage-903-542	 1 1
+assemblage-852-918	assemblage-177-255	 1 1
+assemblage-860-926	assemblage-431-636	 1 1
+assemblage-901-532	assemblage-431-636	 1 1
+assemblage-186-264	assemblage-902-178	 1 1
+assemblage-431-636	assemblage-902-178	 1 1
+assemblage-286-770	assemblage-902-178	 1 1
+assemblage-903-542	assemblage-852-918	 1 1
