@@ -12,7 +12,7 @@ Composed of:
 
 overlap is different between seriationct-9 and seriationct-10 otherwise identical
 
-# seriationct-11 #
+## seriationct-11 ##
 
 Composed of:
 
@@ -27,7 +27,7 @@ identical to seriationct-10 except half the nodes (density 0.1) so a sample of 1
 assemblages will be double the sample fraction of the simulated population. 
 
 Does that matter?  Were we getting too sparse a sample in seriationct-9 and 10?
-# seriationct-12 #
+## seriationct-12 ##
 
 Composed of:
 
@@ -39,7 +39,7 @@ Composed of:
 * Low migration fraction prior distribution (migr = 0.005 to 0.01)
 
 
-# seriationct-14 #
+## seriationct-14 ##
 
 Composed of:
 
@@ -54,7 +54,7 @@ Composed of:
 * Low migration fraction prior distribution (migr = 0.005 to 0.01)
 
 
-# seriationct-15 #
+## seriationct-15 ##
 
 Composed of:
 
@@ -64,7 +64,7 @@ Composed of:
 * Low migration fraction prior distribution (migr = 0.005 to 0.01)
 
 
-# seriationct-16 #
+## seriationct-16 ##
 
 Composed of:
 
@@ -72,7 +72,7 @@ Composed of:
 * mutation from  0.00005, 0.0001
 
 
-# seriationct-17 #
+## seriationct-17 ##
 
 Composed of:
 
@@ -86,7 +86,7 @@ Let's see if the trend of p-values improving holds...
     "migrationfraction_low" : 0.005,
     "migrationfraction_high" : 0.01,
 
-# seriationct-18 #
+## seriationct-18 ##
 
 Composed of:
 
@@ -98,7 +98,7 @@ Composed of:
 * Low migration fraction prior distribution (migr = 0.005 to 0.01)
 
 
-# seriationct-19 #
+## seriationct-19 ##
 
 Composed of:
 
@@ -115,7 +115,7 @@ simparams:
     "migrationfraction_low" : 0.05,
     "migrationfraction_high" : 0.1,
 
-# seriationct-20 #
+## seriationct-20 ##
 
 Composed of:
 
@@ -134,7 +134,7 @@ simparams:
     "migrationfraction_low" : 0.05,
     "migrationfraction_high" : 0.1,
 
-# seriationct-21 #
+## seriationct-21 ##
 
 Composed of:
 
@@ -162,6 +162,28 @@ migration rate has been kept the same as seriationct-20
     "replicates" : 1
 }
 
+## seriationct-22 ##
+
+Composed of:
+
+* clustered lineage splitting model
+* 4 clusters, 2 lineages
+* 6 slices, 2 slices with the entire cluster set, 4 slices after split into two lineages
+
+
+simparams:
+
+population size has been reduced, to see if this increases differentiation by drift.  
+Migration rate has been kept the same as seriationct-20
+Innovation rate the same as seriationct-20
+
+
+{
+    "theta_low": 0.00005,
+    "theta_high": 0.0001,
+    "migrationfraction_low" : 0.05,
+    "migrationfraction_high" : 0.1,
+}
 ## seriationct-6 ##
 
 Composed of:
