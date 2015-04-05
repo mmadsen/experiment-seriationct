@@ -1,0 +1,146 @@
+<h1 id="seriationct-experiment-index">SeriationCT Experiment Index</h1>
+<h2 id="seriationct-10">seriationct-10</h2>
+<p>Composed of:</p>
+<ul>
+<li>5 slices</li>
+<li>distance/minmax model</li>
+<li>moderate migration fraction (migr = 0.05 to 0.2)</li>
+<li>moderate innovation rate (theta = 0.001 to 0.01</li>
+<li>overlap between slices 0.1</li>
+</ul>
+<p>overlap is different between seriationct-9 and seriationct-10 otherwise identical</p>
+<h1 id="seriationct-11">seriationct-11</h1>
+<p>Composed of:</p>
+<ul>
+<li>5 slices</li>
+<li>distance/minmax model</li>
+<li>moderate migration fraction (migr = 0.05 to 0.2)</li>
+<li>moderate innovation rate (theta = 0.001 to 0.01</li>
+<li>overlap between slices 0.1</li>
+<li>density of nodes 0.1</li>
+</ul>
+<p>identical to seriationct-10 except half the nodes (density 0.1) so a sample of 10-12 assemblages will be double the sample fraction of the simulated population.</p>
+<p>Does that matter? Were we getting too sparse a sample in seriationct-9 and 10? # seriationct-12 #</p>
+<p>Composed of:</p>
+<ul>
+<li>15 slices in the same 10K steps, to see if having shorter durations and then sampling the assemblages changes our ability to detect structure</li>
+<li>Hierarchy with 4 children per level</li>
+<li>Root node which can change over time, with 0.2 prob per slice</li>
+<li>Very weak links between nodes, except for strong links between lowest level (gchild) nodes</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<h1 id="seriationct-14">seriationct-14</h1>
+<p>Composed of:</p>
+<ul>
+<li>clustered model with 3 clusters</li>
+<li>10 nodes per cluster</li>
+<li>complete wiring within clusters</li>
+<li>0.2 density intercluster edges</li>
+<li>intracluster edges weight 10</li>
+<li>intercluster edges weight 1</li>
+<li>spread out population centroids from 100-1000 on both coordinates</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<h1 id="seriationct-15">seriationct-15</h1>
+<p>Composed of:</p>
+<ul>
+<li>4 clusters, complete intraconnects, 2 interconnects between, 10 nodes per cluster</li>
+<li>first sim where mutation rate was interpreted as an individual rate, not as theta</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<h1 id="seriationct-16">seriationct-16</h1>
+<p>Composed of:</p>
+<ul>
+<li>four clusters, 0.1 interconnect, 10 nodes per cluster</li>
+<li>mutation from 0.00005, 0.0001</li>
+</ul>
+<h1 id="seriationct-17">seriationct-17</h1>
+<p>Composed of:</p>
+<ul>
+<li>4 clusters, 0.1 interconnect, 10 nodes per cluster</li>
+<li>Even lower mutation and also modifying migrationfraction downward.</li>
+</ul>
+<p>Let's see if the trend of p-values improving holds...</p>
+<pre><code>&quot;theta_low&quot;: 0.00001,
+&quot;theta_high&quot;: 0.00005,
+&quot;migrationfraction_low&quot; : 0.005,
+&quot;migrationfraction_high&quot; : 0.01,</code></pre>
+<h1 id="seriationct-18">seriationct-18</h1>
+<p>Composed of:</p>
+<ul>
+<li>15 slices in the same 10K steps, to see if having shorter durations and then sampling the assemblages changes our ability to detect structure</li>
+<li>Hierarchy with 4 children per level</li>
+<li>Root node which can change over time, with 0.2 prob per slice</li>
+<li>Very weak links between nodes, except for strong links between lowest level (gchild) nodes</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<h1 id="seriationct-19">seriationct-19</h1>
+<p>Composed of:</p>
+<ul>
+<li>clustered lineage splitting model</li>
+<li>4 clusters, 2 lineages</li>
+<li>6 slices, 2 slices with the entire cluster set, 4 slices after split into two lineages</li>
+<li>otherwise, low innovation rates</li>
+</ul>
+<p>simparams: &quot;theta_low&quot;: 0.00005, &quot;theta_high&quot;: 0.0001, &quot;simlength&quot;: 12000, &quot;migrationfraction_low&quot; : 0.05, &quot;migrationfraction_high&quot; : 0.1,</p>
+<h1 id="seriationct-20">seriationct-20</h1>
+<p>Composed of:</p>
+<ul>
+<li>clustered lineage splitting model</li>
+<li>4 clusters, 2 lineages</li>
+<li>6 slices, 2 slices with the entire cluster set, 4 slices after split into two lineages</li>
+<li>otherwise, low innovation rates</li>
+</ul>
+<p>performed just like seriationct-19, but without hand-hacking. Employs seriationct-build-lineage-splitting-network.py</p>
+<p>simparams: &quot;theta_low&quot;: 0.00005, &quot;theta_high&quot;: 0.0001, &quot;simlength&quot;: 12000, &quot;migrationfraction_low&quot; : 0.05, &quot;migrationfraction_high&quot; : 0.1,</p>
+<h1 id="seriationct-21">seriationct-21</h1>
+<p>Composed of:</p>
+<ul>
+<li>clustered lineage splitting model</li>
+<li>4 clusters, 2 lineages</li>
+<li>6 slices, 2 slices with the entire cluster set, 4 slices after split into two lineages</li>
+</ul>
+<p>simparams:</p>
+<p>population size has been reduced, to see if this increases differentiation by drift.<br />innovation rate has been slightly increased. migration rate has been kept the same as seriationct-20</p>
+<p>{ &quot;theta_low&quot;: 0.0001, &quot;theta_high&quot;: 0.001, &quot;maxinittraits&quot;: 5, &quot;numloci&quot;: 3, &quot;popsize&quot;: 100, &quot;simlength&quot;: 12000, &quot;samplefraction&quot; : 0.5, &quot;migrationfraction_low&quot; : 0.05, &quot;migrationfraction_high&quot; : 0.1, &quot;replicates&quot; : 1 }</p>
+<h2 id="seriationct-6">seriationct-6</h2>
+<p>Composed of:</p>
+<ul>
+<li>Hierarchy with 5 children per level</li>
+<li>Root node which can change over time, with 0.2 prob per slice</li>
+<li>Very weak links between nodes, except for strong links between lowest level (gchild) nodes</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<h2 id="seriationct-7">seriationct-7</h2>
+<p>Composed of:</p>
+<ul>
+<li>15 slices in the same 10K steps, to see if having shorter durations and then sampling the assemblages changes our ability to detect structure</li>
+<li>Hierarchy with 4 children per level</li>
+<li>Root node which can change over time, with 0.2 prob per slice</li>
+<li>Very weak links between nodes, except for strong links between lowest level (gchild) nodes</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<h2 id="seriationct-8">seriationct-8</h2>
+<p>Composed of:</p>
+<ul>
+<li>5 slices over 10K steps</li>
+<li>distance (minmax) model</li>
+<li>density 0.2</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<p>Direct contrast with seriationct-9 ## seriationct-9 ##</p>
+<p>Composed of:</p>
+<ul>
+<li>5 slices in 10K steps</li>
+<li>minmax model</li>
+<li>moderate migration fraction (migr = 0.05 to 0.2)</li>
+<li>moderate innovation rate (theta = 0.001 to 0.01</li>
+</ul>
+<p>Direct contrast wtih seriationct-8</p>
