@@ -1,12 +1,22 @@
-# seriationct-22 #
+## seriationct-22 ##
 
 Composed of:
 
-* 15 slices in the same 10K steps, to see if having shorter durations and then sampling the assemblages changes our ability to detect structure
-* Hierarchy with 4 children per level
-* Root node which can change over time, with 0.2 prob per slice
-* Very weak links between nodes, except for strong links between lowest level (gchild) nodes
-* Low innovation rate prior distribution (theta = 0.0005 to 0.001)
-* Low migration fraction prior distribution (migr = 0.005 to 0.01)
+* clustered lineage splitting model
+* 4 clusters, 2 lineages
+* 6 slices, 2 slices with the entire cluster set, 4 slices after split into two lineages
 
 
+simparams:
+
+population size has been reduced, to see if this increases differentiation by drift.  
+Migration rate has been kept the same as seriationct-20
+Innovation rate the same as seriationct-20
+
+
+{
+    "theta_low": 0.00005,
+    "theta_high": 0.0001,
+    "migrationfraction_low" : 0.05,
+    "migrationfraction_high" : 0.1,
+}
