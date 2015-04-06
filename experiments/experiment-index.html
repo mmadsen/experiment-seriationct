@@ -116,7 +116,38 @@
 </ul>
 <p>simparams:</p>
 <p>population size has been reduced, to see if this increases differentiation by drift.<br />Migration rate has been kept the same as seriationct-20 Innovation rate the same as seriationct-20</p>
-<p>{ &quot;theta_low&quot;: 0.00005, &quot;theta_high&quot;: 0.0001, &quot;migrationfraction_low&quot; : 0.05, &quot;migrationfraction_high&quot; : 0.1, } ## seriationct-6 ##</p>
+<p>{ &quot;theta_low&quot;: 0.00005, &quot;theta_high&quot;: 0.0001, &quot;migrationfraction_low&quot; : 0.05, &quot;migrationfraction_high&quot; : 0.1, } ## seriationct-23 ##</p>
+<p>Composed of:</p>
+<ul>
+<li>clustered lineage splitting model</li>
+<li>4 clusters, 2 lineages</li>
+<li>6 slices, 2 slices with the entire cluster set, 4 slices before coalescence into single lineage</li>
+<li></li>
+</ul>
+<p>simparams:</p>
+<p>population size has been reduced, to see if this increases differentiation by drift.<br />Migration rate has been kept the same as seriationct-20 Innovation rate the same as seriationct-20</p>
+<p>{ &quot;theta_low&quot;: 0.00005, &quot;theta_high&quot;: 0.0001, &quot;migrationfraction_low&quot; : 0.05, &quot;migrationfraction_high&quot; : 0.1, } ## seriationct-24 ##</p>
+<p>Re-run of seriationct-23 with less difference between inter and intra edges, to see if we can create more cohesive lineages with more sharing on the inter cluster edges.</p>
+<p>Composed of:</p>
+<ul>
+<li>clustered lineage splitting model</li>
+<li>4 clusters, 2 lineages</li>
+<li>6 slices, 2 slices with the entire cluster set, 4 slices before coalescence into single lineage</li>
+<li>intercluster edge weights still 1.0, but intracluster weights down to 10, so there's only 1 order of mag difference</li>
+</ul>
+<p>simparams:</p>
+<p>population size has been reduced, to see if this increases differentiation by drift.<br />Migration rate has been kept the same as seriationct-20 Innovation rate the same as seriationct-20</p>
+<p>{ &quot;theta_low&quot;: 0.00005, &quot;theta_high&quot;: 0.0001, &quot;migrationfraction_low&quot; : 0.05, &quot;migrationfraction_high&quot; : 0.1, } # seriationct-25 #</p>
+<p>Composed of:</p>
+<ul>
+<li>15 slices in the same 10K steps, to see if having shorter durations and then sampling the assemblages changes our ability to detect structure</li>
+<li>Hierarchy with 4 children per level</li>
+<li>Root node which can change over time, with 0.2 prob per slice</li>
+<li>Very weak links between nodes, except for strong links between lowest level (gchild) nodes</li>
+<li>Low innovation rate prior distribution (theta = 0.0005 to 0.001)</li>
+<li>Low migration fraction prior distribution (migr = 0.005 to 0.01)</li>
+</ul>
+<h2 id="seriationct-6">seriationct-6</h2>
 <p>Composed of:</p>
 <ul>
 <li>Hierarchy with 5 children per level</li>

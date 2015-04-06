@@ -1,0 +1,165 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-781-776 500.0 0.000776 0.00196 776.0 781.0
+assemblage-600-534 500.0 0.000534 0.00377 534.0 600.0
+assemblage-296-429 500.0 0.000429 0.00681 429.0 296.0
+assemblage-930-503 500.0 0.000503 0.00047 503.0 930.0
+assemblage-380-266 500.0 0.000266 0.00597 266.0 380.0
+assemblage-901-172 500.0 0.000172 0.00076 172.0 901.0
+assemblage-291-419 500.0 0.000419 0.00686 419.0 291.0
+assemblage-708-443 500.0 0.000443 0.00269 443.0 708.0
+assemblage-586-653 500.0 0.000653 0.00391 653.0 586.0
+assemblage-163-932 500.0 0.000932 0.00814 932.0 163.0
+assemblage-955-283 500.0 0.000283 0.00022 283.0 955.0
+assemblage-792-172 500.0 0.000172 0.00185 172.0 792.0
+assemblage-148-933 500.0 0.000933 0.00829 933.0 148.0
+assemblage-943-508 500.0 0.000508 0.00034 508.0 943.0
+assemblage-780-771 500.0 0.000771 0.00197 771.0 780.0
+assemblage-444-470 500.0 0.00047 0.00533 470.0 444.0
+assemblage-384-269 500.0 0.000269 0.00593 269.0 384.0
+assemblage-554-1004 500.0 0.001004 0.00423 1004.0 554.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-781-776 500.0 0.000776 0.00196 776.0 781.0
+assemblage-600-534 500.0 0.000534 0.00377 534.0 600.0
+assemblage-296-429 500.0 0.000429 0.00681 429.0 296.0
+assemblage-930-503 500.0 0.000503 0.00047 503.0 930.0
+assemblage-380-266 500.0 0.000266 0.00597 266.0 380.0
+assemblage-901-172 500.0 0.000172 0.00076 172.0 901.0
+assemblage-291-419 500.0 0.000419 0.00686 419.0 291.0
+assemblage-708-443 500.0 0.000443 0.00269 443.0 708.0
+assemblage-586-653 500.0 0.000653 0.00391 653.0 586.0
+assemblage-163-932 500.0 0.000932 0.00814 932.0 163.0
+assemblage-955-283 500.0 0.000283 0.00022 283.0 955.0
+assemblage-792-172 500.0 0.000172 0.00185 172.0 792.0
+assemblage-148-933 500.0 0.000933 0.00829 933.0 148.0
+assemblage-943-508 500.0 0.000508 0.00034 508.0 943.0
+assemblage-780-771 500.0 0.000771 0.00197 771.0 780.0
+assemblage-444-470 500.0 0.00047 0.00533 470.0 444.0
+assemblage-384-269 500.0 0.000269 0.00593 269.0 384.0
+assemblage-554-1004 500.0 0.001004 0.00423 1004.0 554.0
+*Tie data
+From To Edge Count
+assemblage-708-443	assemblage-148-933	 1 1
+assemblage-943-508	assemblage-792-172	 1 1
+assemblage-384-269	assemblage-554-1004	 1 1
+assemblage-781-776	assemblage-380-266	 1 1
+assemblage-291-419	assemblage-780-771	 1 1
+assemblage-384-269	assemblage-163-932	 1 1
+assemblage-148-933	assemblage-384-269	 1 1
+assemblage-148-933	assemblage-708-443	 1 1
+assemblage-600-534	assemblage-163-932	 1 1
+assemblage-708-443	assemblage-554-1004	 1 1
+assemblage-781-776	assemblage-901-172	 1 1
+assemblage-901-172	assemblage-380-266	 1 1
+assemblage-148-933	assemblage-780-771	 1 1
+assemblage-148-933	assemblage-380-266	 1 1
+assemblage-586-653	assemblage-291-419	 1 1
+assemblage-444-470	assemblage-380-266	 1 1
+assemblage-943-508	assemblage-163-932	 1 1
+assemblage-901-172	assemblage-943-508	 1 1
+assemblage-781-776	assemblage-955-283	 1 1
+assemblage-955-283	assemblage-930-503	 1 1
+assemblage-600-534	assemblage-901-172	 1 1
+assemblage-296-429	assemblage-444-470	 1 1
+assemblage-148-933	assemblage-163-932	 1 1
+assemblage-955-283	assemblage-148-933	 1 1
+assemblage-930-503	assemblage-380-266	 1 1
+assemblage-943-508	assemblage-384-269	 1 1
+assemblage-901-172	assemblage-586-653	 1 1
+assemblage-781-776	assemblage-296-429	 1 1
+assemblage-955-283	assemblage-792-172	 1 1
+assemblage-296-429	assemblage-708-443	 1 1
+assemblage-600-534	assemblage-444-470	 1 1
+assemblage-163-932	assemblage-780-771	 1 1
+assemblage-163-932	assemblage-380-266	 1 1
+assemblage-444-470	assemblage-554-1004	 1 1
+assemblage-600-534	assemblage-708-443	 1 1
+assemblage-163-932	assemblage-943-508	 1 1
+assemblage-384-269	assemblage-708-443	 1 1
+assemblage-600-534	assemblage-955-283	 1 1
+assemblage-781-776	assemblage-792-172	 1 1
+assemblage-148-933	assemblage-930-503	 1 1
+assemblage-384-269	assemblage-148-933	 1 1
+assemblage-444-470	assemblage-148-933	 1 1
+assemblage-955-283	assemblage-380-266	 1 1
+assemblage-955-283	assemblage-296-429	 1 1
+assemblage-943-508	assemblage-554-1004	 1 1
+assemblage-781-776	assemblage-600-534	 1 1
+assemblage-163-932	assemblage-792-172	 1 1
+assemblage-792-172	assemblage-380-266	 1 1
+assemblage-586-653	assemblage-380-266	 1 1
+assemblage-384-269	assemblage-930-503	 1 1
+assemblage-901-172	assemblage-291-419	 1 1
+assemblage-296-429	assemblage-380-266	 1 1
+assemblage-296-429	assemblage-930-503	 1 1
+assemblage-780-771	assemblage-380-266	 1 1
+assemblage-163-932	assemblage-554-1004	 1 1
+assemblage-163-932	assemblage-930-503	 1 1
+assemblage-781-776	assemblage-291-419	 1 1
+assemblage-296-429	assemblage-586-653	 1 1
+assemblage-708-443	assemblage-792-172	 1 1
+assemblage-901-172	assemblage-296-429	 1 1
+assemblage-291-419	assemblage-586-653	 1 1
+assemblage-780-771	assemblage-163-932	 1 1
+assemblage-943-508	assemblage-380-266	 1 1
+assemblage-955-283	assemblage-586-653	 1 1
+assemblage-943-508	assemblage-148-933	 1 1
+assemblage-384-269	assemblage-380-266	 1 1
+assemblage-708-443	assemblage-380-266	 1 1
+assemblage-148-933	assemblage-291-419	 1 1
+assemblage-148-933	assemblage-444-470	 1 1
+assemblage-901-172	assemblage-930-503	 1 1
+assemblage-943-508	assemblage-930-503	 1 1
+assemblage-780-771	assemblage-148-933	 1 1
+assemblage-955-283	assemblage-163-932	 1 1
+assemblage-708-443	assemblage-780-771	 1 1
+assemblage-708-443	assemblage-291-419	 1 1
+assemblage-780-771	assemblage-792-172	 1 1
+assemblage-296-429	assemblage-148-933	 1 1
+assemblage-148-933	assemblage-792-172	 1 1
+assemblage-163-932	assemblage-291-419	 1 1
+assemblage-163-932	assemblage-444-470	 1 1
+assemblage-600-534	assemblage-930-503	 1 1
+assemblage-901-172	assemblage-708-443	 1 1
+assemblage-600-534	assemblage-291-419	 1 1
+assemblage-901-172	assemblage-792-172	 1 1
+assemblage-943-508	assemblage-291-419	 1 1
+assemblage-708-443	assemblage-384-269	 1 1
+assemblage-781-776	assemblage-163-932	 1 1
+assemblage-708-443	assemblage-444-470	 1 1
+assemblage-444-470	assemblage-930-503	 1 1
+assemblage-901-172	assemblage-955-283	 1 1
+assemblage-901-172	assemblage-163-932	 1 1
+assemblage-955-283	assemblage-444-470	 1 1
+assemblage-781-776	assemblage-943-508	 1 1
+assemblage-781-776	assemblage-930-503	 1 1
+assemblage-780-771	assemblage-291-419	 1 1
+assemblage-291-419	assemblage-792-172	 1 1
+assemblage-955-283	assemblage-708-443	 1 1
+assemblage-296-429	assemblage-780-771	 1 1
+assemblage-708-443	assemblage-586-653	 1 1
+assemblage-708-443	assemblage-163-932	 1 1
+assemblage-943-508	assemblage-708-443	 1 1
+assemblage-291-419	assemblage-380-266	 1 1
+assemblage-943-508	assemblage-444-470	 1 1
+assemblage-296-429	assemblage-163-932	 1 1
+assemblage-296-429	assemblage-384-269	 1 1
+assemblage-600-534	assemblage-943-508	 1 1
+assemblage-296-429	assemblage-792-172	 1 1
+assemblage-586-653	assemblage-792-172	 1 1
+assemblage-955-283	assemblage-943-508	 1 1
+assemblage-600-534	assemblage-296-429	 1 1
+assemblage-600-534	assemblage-380-266	 1 1
+assemblage-600-534	assemblage-148-933	 1 1
+assemblage-943-508	assemblage-296-429	 1 1
+assemblage-708-443	assemblage-930-503	 1 1
+assemblage-296-429	assemblage-291-419	 1 1
+assemblage-444-470	assemblage-163-932	 1 1
+assemblage-291-419	assemblage-930-503	 1 1
+assemblage-955-283	assemblage-291-419	 1 1
+assemblage-781-776	assemblage-708-443	 1 1
+assemblage-943-508	assemblage-780-771	 1 1
+assemblage-943-508	assemblage-586-653	 1 1
+assemblage-586-653	assemblage-163-932	 1 1
+assemblage-955-283	assemblage-780-771	 1 1
