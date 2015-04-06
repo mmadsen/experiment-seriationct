@@ -1,10 +1,10 @@
 #!/bin/sh
 
 mkdir $1
-cp -rp ../template/bin $1
-cp ../template/run-simulation-and-seriations.sh $1/
-cp ../template/seriationct-priors.json $1/
-cp ../template/README.md $1/
+cp -rp ../template-stratified/bin $1
+cp ../template-stratified/run-simulation-and-seriations.sh $1/
+cp ../template-stratified/seriationct-priors.json $1/
+cp ../template-stratified/README.md $1/
 cd $1/bin
 perl -pi.bak -e "s/REPLACEME/$1/g" *.sh
 rm *.bak
@@ -17,9 +17,15 @@ mkdir exported-data
 mkdir jobs
 mkdir networks
 mkdir rawnetworkmodels
-mkdir sampled-data
+mkdir random-sampled-data
+mkdir random-sampled-seriation-results
+mkdir temporal-strat-sampled-data
+mkdir temporal-strat-seriation-results
+mkdir spatial-sampled-data
+mkdir spatial-strat-seriation-results
+mkdir spatiotemporal-sampled-data
+mkdir spatiotemporal-strat-seriation-results
 mkdir sampled-traits
-mkdir seriation-results
 mkdir temporal
 mkdir xyfiles
 
@@ -28,11 +34,16 @@ mkdir xyfiles
 # through Github to multiple machines
 touch exported-data/README
 touch jobs/README
-touch sampled-data/README
-touch seriation-results/README
 touch temporal/README
 touch xyfiles/README
-
+touch random-sampled-data/README
+touch random-sampled-seriation-results/README
+touch temporal-strat-sampled-data/README
+touch temporal-strat-seriation-results/README
+touch spatial-sampled-data/README
+touch spatial-strat-seriation-results/README
+touch spatiotemporal-sampled-data/README
+touch spatiotemporal-strat-seriation-results/README
 
 
 cd ..
