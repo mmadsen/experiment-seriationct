@@ -1,8 +1,8 @@
-strict graph "seriationct-25-3d2e4b52-dbf8-11e4-9e91-b8f6b1154c9b-0-minmax-lineage" {
+strict graph "seriationct-25  temporal-strat-seriation-results  3d2e4b52-dbf8-11e4-9e91-b8f6b1154c9b-0-sampled-500-sampled-0.1-sample-2  lineage" {
 labelloc=b;
 ratio=auto;
 pad="1.0";
-label="seriationct-25-3d2e4b52-dbf8-11e4-9e91-b8f6b1154c9b-0-minmax-lineage";
+label="seriationct-25  temporal-strat-seriation-results  3d2e4b52-dbf8-11e4-9e91-b8f6b1154c9b-0-sampled-500-sampled-0.1-sample-2  lineage";
 node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
 0 [xCoordinate="134.0", appears_in_slice=6, yCoordinate="716.0", colorscheme=accent6, lineage_id=2, short_label="716-134", label="716-134", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=9, penwidth="6.0"];
 1 [xCoordinate="487.0", appears_in_slice=3, yCoordinate="474.0", colorscheme=accent6, lineage_id=2, short_label="474-487", label="474-487", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=0, penwidth="3.0"];

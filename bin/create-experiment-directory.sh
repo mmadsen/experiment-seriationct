@@ -1,6 +1,6 @@
 #!/bin/sh
 
-mkdir $1
+mkdir -p $1
 cp -rp ../template-stratified/bin $1
 cp ../template-stratified/run-simulation-and-seriations.sh $1/
 cp ../template-stratified/seriationct-priors.json $1/
